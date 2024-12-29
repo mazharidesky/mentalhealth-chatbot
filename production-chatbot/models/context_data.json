@@ -1,0 +1,26 @@
+{
+  "current_topic": "kematian",
+  "last_input": "paman saya",
+  "context_chain": [
+    {
+      "input": "tidak akan",
+      "tag": "kasual"
+    },
+    {
+      "input": "tidak ada",
+      "tag": "selesai"
+    },
+    {
+      "input": "saya sangat",
+      "tag": "senang"
+    },
+    {
+      "input": "saya sangat cemas",
+      "tag": "cemas"
+    },
+    {
+      "input": "paman saya",
+      "tag": "kematian"
+    }
+  ]
+}

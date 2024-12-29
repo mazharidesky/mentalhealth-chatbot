@@ -1,0 +1,68 @@
+[
+  {
+    "input": "hallo",
+    "expected_response": "hallo apa keresahan kamu",
+    "bot_response": "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
+    "timestamp": 1734442644.043881
+  },
+  {
+    "input": "berikan saya saran agar tidak cemas",
+    "expected_response": "untuk mengurangi kecemasan cobalah beberapa strategi sederhana pertama luangkan waktu untuk bernapas dalamdalam dan perlahan yang dapat membantu menenangkan pikiran aktivitas fisik seperti berjalan atau berolahraga juga sangat bermanfaat untuk meredakan ketegangan",
+    "bot_response": "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
+    "timestamp": 1734442784.417687
+  },
+  {
+    "input": "bagaimana melakukan studi tidur",
+    "expected_response": "melakukan studi tidur atau polisomnografi adalah proses yang digunakan untuk menganalisis pola tidur dan mengidentifikasi gangguan tidur pertama anda perlu berkonsultasi dengan dokter atau spesialis tidur untuk mendiskusikan gejala yang anda alami seperti kesulitan tidur mendengkur atau kelelahan di siang hari jika diperlukan dokter akan merujuk anda ke pusat tidur untuk melakukan studi tidur selama studi anda akan diminta untuk tidur di fasilitas yang dilengkapi dengan peralatan pemantauan sensor akan dipasang di tubuh anda untuk merekam aktivitas otak detak jantung pernapasan dan gerakan tubuh selama tidur",
+    "bot_response": "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
+    "timestamp": 1734443276.033534
+  },
+  {
+    "input": "terima kasih",
+    "expected_response": "samasama semoga membantu atas kesulitan kamu",
+    "bot_response": "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
+    "timestamp": 1734443393.837885
+  },
+  {
+    "input": "saya sering main hp",
+    "expected_response": "jika anda sering bermain ponsel penting untuk mengatur kebiasaan penggunaan agar tidak mengganggu kesehatan fisik dan mental anda pertama cobalah untuk menetapkan batasan waktu penggunaan ponsel setiap hari misalnya dengan menggunakan aplikasi pengatur waktu atau fitur pengingat di ponsel anda selain itu luangkan waktu untuk beristirahat dari layar dengan melakukan aktivitas lain yang menyenangkan seperti membaca buku berolahraga atau berkumpul dengan teman dan keluarga pastikan juga untuk menjaga jarak yang cukup antara mata dan layar ponsel untuk mengurangi ketegangan mata",
+    "bot_response": "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
+    "timestamp": 1734444839.888927
+  },
+  {
+    "input": "sangat baik",
+    "expected_response": "senang mendengar bahwa anda merasa sangat baik kesehatan mental yang positif itu penting apakah ada hal tertentu yang membuat anda merasa baik hari ini",
+    "bot_response": "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
+    "timestamp": 1734596632.258077
+  },
+  {
+    "input": "apakah seseorang bisa mendapatkan gangguan mental hanya karena tidak suka makan pizza",
+    "expected_response": "tidak seseorang tidak dapat mengalami gangguan mental hanya karena tidak suka makan pizza gangguan mental biasanya disebabkan oleh kombinasi faktor genetik biologis lingkungan dan psikologis yang kompleks ketidaksukaan terhadap makanan tertentu seperti pizza lebih berkaitan dengan preferensi pribadi atau pengalaman rasa dan tidak cukup untuk memicu gangguan mental",
+    "bot_response": "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
+    "timestamp": 1734597855.061636
+  },
+  {
+    "input": "jika saya berbicara dengan tanaman apakah itu berarti saya menderita stress",
+    "expected_response": "berbicara dengan tanaman tidak secara otomatis berarti anda menderita stres banyak orang melakukan hal ini sebagai cara untuk mengekspresikan diri merawat tanaman atau bahkan merasa lebih terhubung dengan alam aktivitas ini bisa menjadi bentuk interaksi yang positif dan menenangkan yang dapat membantu mengurangi stres dan meningkatkan suasana hati berbicara dengan tanaman juga dapat menciptakan rasa tanggung jawab dan memberikan kenyamanan emosional namun jika anda merasa bahwa perilaku ini disertai dengan perasaan kesepian yang mendalam atau mengganggu kehidupan seharihari anda mungkin ada baiknya untuk mengeksplorasi perasaan tersebut lebih lanjut dengan seorang profesional",
+    "bot_response": "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
+    "timestamp": 1734598880.911975
+  },
+  {
+    "input": "bagaimana cara saya untuk menangani depresi",
+    "expected_response": "menangani depresi memerlukan pendekatan yang holistik dan sering kali melibatkan beberapa strategi pertama penting untuk mencari bantuan profesional seperti psikolog atau psikiater yang dapat memberikan diagnosis yang tepat dan merencanakan terapi yang sesuai seperti terapi kognitif perilaku cbt atau pengobatan jika diperlukan selain itu cobalah untuk menjaga rutinitas harian yang teratur termasuk tidur yang cukup pola makan sehat dan olahraga secara teratur karena aktivitas fisik dapat meningkatkan suasana hati",
+    "bot_response": "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
+    "timestamp": 1734610227.305384
+  },
+  {
+    "input": "bisakah seseorang mengalami gangguan mental hanya karena terlalu banyak tidur di siang hari",
+    "expected_response": "terlalu banyak tidur di siang hari tidak secara langsung menyebabkan gangguan mental tetapi dapat menjadi gejala atau faktor yang berkontribusi pada masalah kesehatan mental yang lebih besar misalnya tidur berlebihan bisa terkait dengan kondisi seperti depresi kecemasan atau gangguan tidur lainnya yang dapat memengaruhi kualitas hidup dan kesejahteraan mental seseorang jika seseorang merasa perlu tidur lebih dari biasanya dan mengalami perubahan suasana hati energi atau fungsi seharihari penting untuk mencari bantuan profesional untuk mengevaluasi penyebabnya dengan demikian meskipun tidur siang yang berlebihan sendiri tidak menyebabkan gangguan mental itu bisa menjadi indikator adanya masalah yang lebih dalam yang perlu ditangani",
+    "bot_response": "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
+    "timestamp": 1734610581.209241
+  },
+  {
+    "input": "apakah berpikir bahwa saya adalah superhero berarti saya harus dirawat di rumah sakit jiwa",
+    "expected_response": "berpikir bahwa anda adalah superhero tidak secara otomatis berarti anda harus dirawat di rumah sakit jiwa karena banyak orang memiliki imajinasi atau fantasi yang tidak berbahaya tentang menjadi pahlawan atau memiliki kekuatan super sebagai bentuk pelarian atau hiburan namun jika keyakinan tersebut mengganggu fungsi seharihari anda menyebabkan masalah dalam hubungan sosial atau disertai dengan gejala lain seperti delusi atau ketidakmampuan untuk membedakan antara kenyataan dan imajinasi maka itu bisa menjadi tanda adanya masalah kesehatan mental yang lebih serius dalam kasus seperti itu penting untuk berkonsultasi dengan profesional kesehatan mental untuk mendapatkan evaluasi dan dukungan yang tepat",
+    "bot_response": "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
+    "timestamp": 1734610955.484263
+  }
+]

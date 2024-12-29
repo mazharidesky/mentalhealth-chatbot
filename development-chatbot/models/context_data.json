@@ -1,0 +1,26 @@
+{
+  "current_topic": "selesai",
+  "last_input": "mungkin itu saja",
+  "context_chain": [
+    {
+      "input": "kamu lucu?",
+      "tag": "lelucon"
+    },
+    {
+      "input": "makna apa?",
+      "tag": "fact-1"
+    },
+    {
+      "input": "makan pizza",
+      "tag": "feedback"
+    },
+    {
+      "input": "baik",
+      "tag": "feedback"
+    },
+    {
+      "input": "mungkin itu saja",
+      "tag": "selesai"
+    }
+  ]
+}
