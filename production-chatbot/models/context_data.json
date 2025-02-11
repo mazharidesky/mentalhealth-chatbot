@@ -1,25 +1,25 @@
 {
   "current_topic": "feedback",
-  "last_input": "apakah saya gila jika mendengarkan musik keras sepanjang waktu?",
+  "last_input": "mendengarkan musik terlalu keras, sepanjang hari dapat menyebabkan penyakit mental?",
   "context_chain": [
     {
-      "input": "Bisakah seseorang memiliki gangguan mental hanya karena kebanyakan bermain video game?",
+      "input": "apa saja jenis penyakit mental?",
+      "tag": "fact-11"
+    },
+    {
+      "input": "saya sedih berkepanjangan, apakah itu termasuk penyakit mental?",
       "tag": "feedback"
     },
     {
-      "input": "terima kasih",
+      "input": "apa itu skizofrenia?",
       "tag": "feedback"
     },
     {
-      "input": "hai",
-      "tag": "salam"
-    },
-    {
-      "input": "jika saya kebanyakan bermain game apakah termasuk gangguan mental?",
+      "input": "bagaimana saya dapat sembuh dari penyakit mental yang saya derita?",
       "tag": "feedback"
     },
     {
-      "input": "apakah saya gila jika mendengarkan musik keras sepanjang waktu?",
+      "input": "mendengarkan musik terlalu keras, sepanjang hari dapat menyebabkan penyakit mental?",
       "tag": "feedback"
     }
   ]

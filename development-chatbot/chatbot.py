@@ -190,6 +190,9 @@ class ContextualMentalHealthChatbot:
         Melatih model chatbot dengan TF-IDF dan cosine similarity
         """
         try:
+            # Muat data feedback terbaru
+            self.load_feedback_data()
+            
             # Gabungkan data latih asli dan feedback
             all_patterns = []
             for intent in self.training_data:
@@ -218,6 +221,7 @@ class ContextualMentalHealthChatbot:
             print(f"Terjadi kesalahan saat melatih model: {e}")
             import traceback
             traceback.print_exc()
+
 
     def find_best_match(self, user_input, threshold=0.5):
         """

@@ -190,6 +190,9 @@ class ContextualMentalHealthChatbot:
         Melatih model chatbot dengan TF-IDF dan cosine similarity
         """
         try:
+            # Muat data feedback terbaru
+            self.load_feedback_data()
+            
             # Gabungkan data latih asli dan feedback
             all_patterns = []
             for intent in self.training_data:
@@ -218,6 +221,7 @@ class ContextualMentalHealthChatbot:
             print(f"Terjadi kesalahan saat melatih model: {e}")
             import traceback
             traceback.print_exc()
+
 
     def find_best_match(self, user_input, threshold=0.5):
         """
@@ -421,7 +425,7 @@ class ContextualMentalHealthChatbot:
         return {
             'tag': 'unknown',
             'confidence': 0.0,
-            'response': "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? ",
+            'response': "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
             'matched_pattern': user_input,
             'is_contextual': False
         }
@@ -751,7 +755,7 @@ class AdaptiveMentalHealthChatbot:
         return {
             'tag': 'unknown',
             'confidence': 0.0,
-            'response': "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi?",
+            'response': "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
             'matched_pattern': user_input,
             'is_contextual': False
         }
@@ -799,18 +803,18 @@ class AdaptiveMentalHealthChatbot:
                     self.train()
 
 # Contoh penggunaan
-# if __name__ == "__main__":
-#     # Pilih mode
-#     mode = input("Pilih mode (train/chat): ").lower()
+if __name__ == "__main__":
+    # Pilih mode
+    mode = input("Pilih mode (train/chat): ").lower()
     
-#     # Inisialisasi chatbot
-#     chatbot = ContextualMentalHealthChatbot('data.json')
+    # Inisialisasi chatbot
+    chatbot = ContextualMentalHealthChatbot('data.json')
     
-#     if mode == 'train':
-#         # Latih model
-#         chatbot.train()
-#     elif mode == 'chat':
-#         # Mulai chat interaktif
-#         chatbot.interactive_chat()
-#     else:
-#         print("Mode tidak valid. Gunakan 'train' atau 'chat'.")
+    if mode == 'train':
+        # Latih model
+        chatbot.train()
+    elif mode == 'chat':
+        # Mulai chat interaktif
+        chatbot.interactive_chat()
+    else:
+        print("Mode tidak valid. Gunakan 'train' atau 'chat'.")

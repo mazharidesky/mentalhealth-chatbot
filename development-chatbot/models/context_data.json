@@ -1,26 +1,26 @@
 {
-  "current_topic": "feedback",
-  "last_input": "apakah saya gila jika mendengarkan musik keras sepanjang waktu?",
+  "current_topic": "sedih",
+  "last_input": "saya sedih",
   "context_chain": [
     {
-      "input": "Bisakah seseorang memiliki gangguan mental hanya karena kebanyakan bermain video game?",
+      "input": "saya mengalami gangguan makan, apa sebabnya0?",
       "tag": "feedback"
     },
     {
-      "input": "terima kasih",
+      "input": "apa saja gejala penyakit mental?",
+      "tag": "fact-11"
+    },
+    {
+      "input": "bagaimana cara terhindar dari penyakit mental?",
       "tag": "feedback"
     },
     {
-      "input": "hai",
-      "tag": "salam"
-    },
-    {
-      "input": "jika saya kebanyakan bermain game apakah termasuk gangguan mental?",
+      "input": "hal yang perlu saya lakukan jika saya ingin sembuh dari penyakit mental yang saya derita?",
       "tag": "feedback"
     },
     {
-      "input": "apakah saya gila jika mendengarkan musik keras sepanjang waktu?",
-      "tag": "feedback"
+      "input": "saya sedih",
+      "tag": "sedih"
     }
   ]
 }

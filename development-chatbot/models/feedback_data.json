@@ -106,5 +106,47 @@
     "expected_response": "memiliki perasaan atau keyakinan bahwa seseorang dapat berbicara dengan hewan tidak selalu menunjukkan gangguan mental banyak orang merasa terhubung dengan hewan peliharaan mereka dan mungkin berbicara dengan mereka sebagai bentuk ekspresi kasih sayang namun jika keyakinan ini disertai dengan gejala lain yang mengganggu kehidupan seharihari sebaiknya berkonsultasi dengan profesional kesehatan mental",
     "bot_response": "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
     "timestamp": 1739250848.760251
+  },
+  {
+    "input": "Sedih berkepanjangan merupakan gejala penyakit mental apa?",
+    "expected_response": "Sedih berkepanjangan dapat menjadi gejala dari beberapa kondisi kesehatan mental, termasuk depresi mayor. Depresi ditandai dengan perasaan sedih yang mendalam, kehilangan minat dalam aktivitas yang biasanya menyenangkan, dan gejala fisik seperti kelelahan atau perubahan nafsu makan. Jika perasaan sedih ini berlangsung lebih dari dua minggu dan mengganggu fungsi sehari-hari, penting untuk mencari bantuan dari profesional kesehatan mental untuk evaluasi dan perawatan yang tepat.",
+    "bot_response": "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
+    "timestamp": 1734610955.484263
+  },
+  {
+    "input": "Apa itu gangguan kecemasan?",
+    "expected_response": "Gangguan kecemasan adalah kondisi kesehatan mental yang ditandai dengan perasaan cemas yang berlebihan dan berkepanjangan. Ini dapat mencakup gangguan kecemasan umum, gangguan panik, fobia, dan gangguan stres pasca-trauma (PTSD). Gejala dapat mencakup kekhawatiran yang berlebihan, ketegangan otot, kesulitan tidur, dan serangan panik.",
+    "bot_response": "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
+    "timestamp": 1734610955.484263
+  },
+  {
+    "input": "Apa yang dimaksud dengan gangguan bipolar?",
+    "expected_response": "Gangguan bipolar adalah kondisi kesehatan mental yang ditandai dengan perubahan suasana hati yang ekstrem, termasuk episode mania (perasaan sangat bahagia atau energik) dan depresi. Individu dengan gangguan bipolar mungkin mengalami perubahan suasana hati yang signifikan yang mempengaruhi kehidupan sehari-hari mereka.",
+    "bot_response": "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
+    "timestamp": 1734610955.484263
+  },
+  {
+    "input": "Apa itu skizofrenia?",
+    "expected_response": "Skizofrenia adalah gangguan mental serius yang mempengaruhi cara seseorang berpikir, merasa, dan berperilaku. Gejala dapat mencakup halusinasi, delusi, dan pemikiran yang tidak teratur. Individu dengan skizofrenia mungkin kesulitan membedakan antara kenyataan dan imajinasi.",
+    "bot_response": "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
+    "timestamp": 1734610955.484263
+  },
+  {
+    "input": "Apa itu gangguan makan?",
+    "expected_response": "Gangguan makan adalah kondisi kesehatan mental yang ditandai dengan pola makan yang tidak sehat dan perilaku terkait makanan. Ini termasuk anoreksia nervosa, bulimia nervosa, dan gangguan makan berlebihan. Gangguan ini dapat memiliki dampak serius pada kesehatan fisik dan mental.",
+    "bot_response": "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
+    "timestamp": 1734610955.484263
+  },
+  {
+    "input": "bagaimana cara terhindar dari penyakit mental",
+    "expected_response": "untuk terhindar dari penyakit mental penting untuk menjaga kesehatan fisik dan mental secara seimbang lakukan olahraga secara teratur karena aktivitas fisik dapat meningkatkan suasana hati dan mengurangi gejala depresi serta kecemasan konsumsi makanan bergizi yang kaya akan vitamin dan mineral untuk mendukung kesehatan otak",
+    "bot_response": "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
+    "timestamp": 1739252837.605411
+  },
+  {
+    "input": "hal yang perlu saya lakukan jika saya ingin sembuh dari penyakit mental yang saya derita",
+    "expected_response": "jika anda ingin sembuh dari penyakit mental langkah pertama adalah berkonsultasi dengan profesional kesehatan mental seperti psikolog atau psikiater untuk mendapatkan diagnosis dan rencana perawatan yang tepat ikuti rencana perawatan tersebut termasuk terapi dan pengobatan jika diperlukan selain itu penting untuk menjaga gaya hidup sehat dengan berolahraga secara teratur makan makanan bergizi dan cukup tidur dukungan dari keluarga dan teman juga sangat berharga jadi jangan ragu untuk berbagi perasaan anda jika perlu bergabunglah dengan kelompok dukungan untuk berbagi pengalaman dengan orang lain yang mengalami hal serupa",
+    "bot_response": "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
+    "timestamp": 1739252982.776765
   }
 ]
