@@ -64,5 +64,47 @@
     "expected_response": "berpikir bahwa anda adalah superhero tidak secara otomatis berarti anda harus dirawat di rumah sakit jiwa karena banyak orang memiliki imajinasi atau fantasi yang tidak berbahaya tentang menjadi pahlawan atau memiliki kekuatan super sebagai bentuk pelarian atau hiburan namun jika keyakinan tersebut mengganggu fungsi seharihari anda menyebabkan masalah dalam hubungan sosial atau disertai dengan gejala lain seperti delusi atau ketidakmampuan untuk membedakan antara kenyataan dan imajinasi maka itu bisa menjadi tanda adanya masalah kesehatan mental yang lebih serius dalam kasus seperti itu penting untuk berkonsultasi dengan profesional kesehatan mental untuk mendapatkan evaluasi dan dukungan yang tepat",
     "bot_response": "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
     "timestamp": 1734610955.484263
+  },
+  {
+    "input": "kemarin",
+    "expected_response": "coba ceritakan apa yang terjadi kemarin",
+    "bot_response": "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
+    "timestamp": 1739250461.803356
+  },
+  {
+    "input": "jika saya mendengarkan musik keras sepanjang waktu apakah itu akan membuat saya gila",
+    "expected_response": "mendengarkan musik keras secara terusmenerus tidak secara langsung membuat seseorang gila tetapi dapat mempengaruhi kesehatan mental dan fisik paparan suara keras dapat menyebabkan stres gangguan tidur dan masalah pendengaran jika musik menjadi cara untuk menghindari masalah atau emosi yang tidak nyaman ini bisa menjadi tanda bahwa seseorang perlu mencari cara yang lebih sehat untuk mengatasi perasaan tersebut",
+    "bot_response": "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
+    "timestamp": 1739250511.063936
+  },
+  {
+    "input": "dapatkah menonton film horor terlalu sering menyebabkan gangguan kecemasan",
+    "expected_response": "menonton film horor secara berlebihan dapat memicu atau memperburuk kecemasan terutama bagi individu yang sudah rentan terhadap gangguan kecemasan film horor sering kali memicu respons ketakutan dan stres yang dapat menyebabkan perasaan cemas yang berkepanjangan jika seseorang merasa cemas setelah menonton film horor mungkin ada baiknya untuk mengurangi frekuensi menonton atau memilih genre yang lebih menenangkan",
+    "bot_response": "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
+    "timestamp": 1739250603.281725
+  },
+  {
+    "input": "jika saya selalu merasa cemas saat melihat warna merah apakah itu jenis fobia",
+    "expected_response": "merasa cemas saat melihat warna merah bisa jadi merupakan bentuk fobia yang dikenal sebagai chromophobia atau ketakutan terhadap warna tertentu namun untuk dikategorikan sebagai fobia reaksi tersebut harus sangat kuat dan mengganggu kehidupan seharihari jika perasaan cemas ini mengganggu aktivitas normal sebaiknya berkonsultasi dengan profesional kesehatan mental",
+    "bot_response": "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
+    "timestamp": 1739250665.917824
+  },
+  {
+    "input": "apakah menyukai warna hitam membuat seseorang cenderung depresi",
+    "expected_response": "menyukai warna hitam tidak secara otomatis menunjukkan kecenderungan depresi warna favorit seseorang bisa dipengaruhi oleh banyak faktor termasuk budaya kepribadian dan pengalaman pribadi namun jika seseorang yang menyukai warna hitam juga menunjukkan tandatanda depresi penting untuk mengeksplorasi perasaan dan keadaan mental mereka lebih dalam",
+    "bot_response": "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
+    "timestamp": 1739250689.979742
+  },
+  {
+    "input": "apakah kebanyakan bermain vidio game membuat gangguan mental",
+    "expected_response": "bermain video game dalam jumlah yang berlebihan dapat berkontribusi pada masalah kesehatan mental tetapi tidak secara langsung menyebabkan gangguan mental jika bermain video game mengganggu kehidupan seharihari hubungan sosial atau kesehatan fisik ini bisa menjadi tanda masalah yang lebih besar penting untuk menjaga keseimbangan antara bermain game dan aktivitas lainnya",
+    "bot_response": "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
+    "timestamp": 1739250810.888477
+  },
+  {
+    "input": "jika saya berpikir saya bisa berbicara dengan hewan itu berarti saya punya gangguan mental",
+    "expected_response": "memiliki perasaan atau keyakinan bahwa seseorang dapat berbicara dengan hewan tidak selalu menunjukkan gangguan mental banyak orang merasa terhubung dengan hewan peliharaan mereka dan mungkin berbicara dengan mereka sebagai bentuk ekspresi kasih sayang namun jika keyakinan ini disertai dengan gejala lain yang mengganggu kehidupan seharihari sebaiknya berkonsultasi dengan profesional kesehatan mental",
+    "bot_response": "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
+    "timestamp": 1739250848.760251
   }
 ]

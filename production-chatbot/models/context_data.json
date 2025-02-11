@@ -1,26 +1,26 @@
 {
-  "current_topic": "kematian",
-  "last_input": "paman saya",
+  "current_topic": "feedback",
+  "last_input": "apakah saya gila jika mendengarkan musik keras sepanjang waktu?",
   "context_chain": [
     {
-      "input": "tidak akan",
-      "tag": "kasual"
+      "input": "Bisakah seseorang memiliki gangguan mental hanya karena kebanyakan bermain video game?",
+      "tag": "feedback"
     },
     {
-      "input": "tidak ada",
-      "tag": "selesai"
+      "input": "terima kasih",
+      "tag": "feedback"
     },
     {
-      "input": "saya sangat",
-      "tag": "senang"
+      "input": "hai",
+      "tag": "salam"
     },
     {
-      "input": "saya sangat cemas",
-      "tag": "cemas"
+      "input": "jika saya kebanyakan bermain game apakah termasuk gangguan mental?",
+      "tag": "feedback"
     },
     {
-      "input": "paman saya",
-      "tag": "kematian"
+      "input": "apakah saya gila jika mendengarkan musik keras sepanjang waktu?",
+      "tag": "feedback"
     }
   ]
 }

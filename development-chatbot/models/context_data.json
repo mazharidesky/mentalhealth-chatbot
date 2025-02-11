@@ -1,26 +1,26 @@
 {
-  "current_topic": "selesai",
-  "last_input": "mungkin itu saja",
+  "current_topic": "feedback",
+  "last_input": "apakah saya gila jika mendengarkan musik keras sepanjang waktu?",
   "context_chain": [
     {
-      "input": "kamu lucu?",
-      "tag": "lelucon"
-    },
-    {
-      "input": "makna apa?",
-      "tag": "fact-1"
-    },
-    {
-      "input": "makan pizza",
+      "input": "Bisakah seseorang memiliki gangguan mental hanya karena kebanyakan bermain video game?",
       "tag": "feedback"
     },
     {
-      "input": "baik",
+      "input": "terima kasih",
       "tag": "feedback"
     },
     {
-      "input": "mungkin itu saja",
-      "tag": "selesai"
+      "input": "hai",
+      "tag": "salam"
+    },
+    {
+      "input": "jika saya kebanyakan bermain game apakah termasuk gangguan mental?",
+      "tag": "feedback"
+    },
+    {
+      "input": "apakah saya gila jika mendengarkan musik keras sepanjang waktu?",
+      "tag": "feedback"
     }
   ]
 }
