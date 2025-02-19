@@ -148,5 +148,11 @@
     "expected_response": "jika anda ingin sembuh dari penyakit mental langkah pertama adalah berkonsultasi dengan profesional kesehatan mental seperti psikolog atau psikiater untuk mendapatkan diagnosis dan rencana perawatan yang tepat ikuti rencana perawatan tersebut termasuk terapi dan pengobatan jika diperlukan selain itu penting untuk menjaga gaya hidup sehat dengan berolahraga secara teratur makan makanan bergizi dan cukup tidur dukungan dari keluarga dan teman juga sangat berharga jadi jangan ragu untuk berbagi perasaan anda jika perlu bergabunglah dengan kelompok dukungan untuk berbagi pengalaman dengan orang lain yang mengalami hal serupa",
     "bot_response": "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
     "timestamp": 1739252982.776765
+  },
+  {
+    "input": "situasi fans mu saat ini",
+    "expected_response": "hampir gila karena kalah terus",
+    "bot_response": "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
+    "timestamp": 1739887433.300109
   }
 ]

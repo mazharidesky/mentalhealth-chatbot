@@ -1,26 +1,26 @@
 {
-  "current_topic": "sedih",
-  "last_input": "saya sedih",
+  "current_topic": "feedback",
+  "last_input": "apakh fans mu terkena gangguan mental?",
   "context_chain": [
     {
-      "input": "saya mengalami gangguan makan, apa sebabnya0?",
+      "input": "Apakah sikap melawan dosen termasuk gangguan mental?",
+      "tag": "benci-saya"
+    },
+    {
+      "input": "saya ingin mengetahui tentang anxiety disorder",
+      "tag": "belajar-kesehatan-mental"
+    },
+    {
+      "input": "apa itu anxiety disorder",
+      "tag": "fact-1"
+    },
+    {
+      "input": "saya ingin skizofrenia itu ap",
       "tag": "feedback"
     },
     {
-      "input": "apa saja gejala penyakit mental?",
-      "tag": "fact-11"
-    },
-    {
-      "input": "bagaimana cara terhindar dari penyakit mental?",
+      "input": "apakh fans mu terkena gangguan mental?",
       "tag": "feedback"
-    },
-    {
-      "input": "hal yang perlu saya lakukan jika saya ingin sembuh dari penyakit mental yang saya derita?",
-      "tag": "feedback"
-    },
-    {
-      "input": "saya sedih",
-      "tag": "sedih"
     }
   ]
 }

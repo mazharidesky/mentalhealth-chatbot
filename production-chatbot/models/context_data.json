@@ -1,26 +1,26 @@
 {
-  "current_topic": "feedback",
-  "last_input": "mendengarkan musik terlalu keras, sepanjang hari dapat menyebabkan penyakit mental?",
+  "current_topic": "salam",
+  "last_input": "selamat tahun baru",
   "context_chain": [
     {
-      "input": "apa saja jenis penyakit mental?",
-      "tag": "fact-11"
+      "input": "YA",
+      "tag": "tidur"
     },
     {
-      "input": "saya sedih berkepanjangan, apakah itu termasuk penyakit mental?",
+      "input": "ya",
+      "tag": "kasual"
+    },
+    {
+      "input": "baiklah",
+      "tag": "kasual"
+    },
+    {
+      "input": "terima kasih sudah menemasi saya",
       "tag": "feedback"
     },
     {
-      "input": "apa itu skizofrenia?",
-      "tag": "feedback"
-    },
-    {
-      "input": "bagaimana saya dapat sembuh dari penyakit mental yang saya derita?",
-      "tag": "feedback"
-    },
-    {
-      "input": "mendengarkan musik terlalu keras, sepanjang hari dapat menyebabkan penyakit mental?",
-      "tag": "feedback"
+      "input": "selamat tahun baru",
+      "tag": "salam"
     }
   ]
 }
