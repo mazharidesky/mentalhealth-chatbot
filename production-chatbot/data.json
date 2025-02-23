@@ -2,24 +2,7 @@
   "data": [
     {
       "tag": "salam",
-      "patterns": [
-        "Hai",
-        "Halo",
-        "Ada orang?",
-        "Hai disana",
-        "Halo",
-        "Hei disana",
-        "Apa kabar",
-        "Halo",
-        "Selamat pagi",
-        "Konnichiwa",
-        "Selamat siang",
-        "Halo",
-        "Namaste",
-        "Hai",
-        "Halo",
-        "Sawubona"
-      ],
+      "patterns": ["Hai", "Halo", "Ada orang?", "Hai disana", "Halo", "Hei disana", "Apa kabar", "Halo", "Selamat pagi", "Konnichiwa", "Selamat siang", "Halo", "Namaste", "Hai", "Halo", "Sawubona"],
       "responses": [
         "Halo. Bagaimana perasaan Anda hari ini?",
         "Hai. Apa yang membawa Anda kesini hari ini?",
@@ -2787,10 +2770,7 @@
     },
     {
       "tag": "fact-2",
-      "patterns": [
-        "Mengapa kesehatan mental itu penting?",
-        "Apa pentingnya kesehatan mental?"
-      ],
+      "patterns": ["Mengapa kesehatan mental itu penting?", "Apa pentingnya kesehatan mental?"],
       "responses": [
         "Mempertahankan kesehatan mental sangat penting untuk menstabilkan perilaku, emosi, dan pikiran yang konstruktif. Fokus pada perawatan kesehatan mental dapat meningkatkan produktivitas, meningkatkan citra diri kita, dan memperbaiki hubungan."
       ]
@@ -2798,18 +2778,11 @@
     {
       "tag": "fact-3",
       "patterns": ["Apa itu Depresi?", "Definisikan Depresi"],
-      "responses": [
-        "Gangguan kesehatan mental yang ditandai dengan suasana hati yang tertekan secara terus-menerus atau kehilangan minat dalam aktivitas, yang menyebabkan gangguan signifikan dalam kehidupan sehari-hari."
-      ]
+      "responses": ["Gangguan kesehatan mental yang ditandai dengan suasana hati yang tertekan secara terus-menerus atau kehilangan minat dalam aktivitas, yang menyebabkan gangguan signifikan dalam kehidupan sehari-hari."]
     },
     {
       "tag": "fact-5",
-      "patterns": [
-        "Bagaimana saya tahu jika saya mengalami Depresi?",
-        "Apakah saya depresi?",
-        "Apakah saya menderita depresi?",
-        "Apakah saya sakit mental?"
-      ],
+      "patterns": ["Bagaimana saya tahu jika saya mengalami Depresi?", "Apakah saya depresi?", "Apakah saya menderita depresi?", "Apakah saya sakit mental?"],
       "responses": [
         "Untuk diagnosis depresi, seseorang perlu mengalami suasana hati yang rendah atau kehilangan minat atau kesenangan dalam hidup selama setidaknya 2 minggu. Selain itu, mereka akan mengalami gejala berikut: perasaan sedih, putus asa, atau mudah marah hampir setiap hari."
       ]
@@ -2823,11 +2796,7 @@
     },
     {
       "tag": "fact-7",
-      "patterns": [
-        "Apa itu terapi?",
-        "Apakah saya perlu terapi?",
-        "Siapa yang membutuhkan terapi?"
-      ],
+      "patterns": ["Apa itu terapi?", "Apakah saya perlu terapi?", "Siapa yang membutuhkan terapi?"],
       "responses": [
         "Terapi adalah bentuk perawatan yang bertujuan untuk membantu menyelesaikan masalah mental atau emosional.",
         "Terapi adalah bentuk perawatan yang bertujuan untuk membantu menyelesaikan masalah mental atau emosional. Ini bermanfaat bagi mereka yang memiliki kondisi kesehatan mental atau bahkan tantangan kehidupan sehari-hari."
@@ -2870,18 +2839,14 @@
     },
     {
       "tag": "fact-13",
-      "patterns": [
-        "Apa yang harus saya lakukan jika saya tahu seseorang yang tampaknya memiliki gejala gangguan mental?"
-      ],
+      "patterns": ["Apa yang harus saya lakukan jika saya tahu seseorang yang tampaknya memiliki gejala gangguan mental?"],
       "responses": [
         "Meskipun Pandora tidak dapat menggantikan nasihat profesional, kami mendorong mereka yang memiliki gejala untuk berbicara dengan teman dan anggota keluarga mereka dan mencari nasihat dari profesional kesehatan mental. Semakin cepat kondisi kesehatan mental diidentifikasi dan diobati, semakin cepat mereka dapat memulai jalan menuju pemulihan. Jika Anda tahu seseorang yang mengalami masalah, jangan menganggap bahwa masalah tersebut akan teratasi dengan sendirinya. Beri tahu mereka bahwa Anda peduli pada mereka, dan bahwa ada opsi perawatan yang tersedia yang akan membantu mereka sembuh. Bicaralah dengan profesional kesehatan mental atau konselor jika Anda berpikir teman atau anggota keluarga Anda mengalami gejala kondisi kesehatan mental. Jika orang yang terpengaruh tahu bahwa Anda mendukung mereka, mereka akan lebih mungkin untuk mencari bantuan."
       ]
     },
     {
       "tag": "fact-14",
-      "patterns": [
-        "Bagaimana saya bisa menemukan profesional kesehatan mental untuk diri saya atau anak saya?"
-      ],
+      "patterns": ["Bagaimana saya bisa menemukan profesional kesehatan mental untuk diri saya atau anak saya?"],
       "responses": [
         "Merasa nyaman dengan profesional yang Anda atau anak Anda bekerja sama sangat penting untuk keberhasilan perawatan. Menemukan profesional yang paling sesuai dengan kebutuhan Anda mungkin memerlukan penelitian. Mulailah dengan mencari penyedia di daerah Anda."
       ]
@@ -2895,9 +2860,7 @@
     },
     {
       "tag": "fact-16",
-      "patterns": [
-        "Jika saya terlibat dalam perawatan, apa yang perlu saya ketahui?"
-      ],
+      "patterns": ["Jika saya terlibat dalam perawatan, apa yang perlu saya ketahui?"],
       "responses": [
         "Karena memulai perawatan adalah langkah besar bagi individu dan keluarga, ini bisa sangat membingungkan. Penting untuk terlibat dan terlibat dalam proses perawatan sebanyak mungkin. Beberapa pertanyaan yang perlu Anda jawab termasuk:\n Apa yang diketahui tentang penyebab penyakit ini?\n Apakah ada diagnosis lain di mana gejala ini umum?\n Apakah Anda biasanya menyertakan pemeriksaan fisik atau neurologis?\n Apakah ada tes atau pemeriksaan tambahan yang Anda rekomendasikan saat ini?\n Apakah Anda menyarankan pendapat independen dari psikiater lain saat ini?\n Program perawatan apa yang paling membantu dengan diagnosis ini?\n Apakah program ini melibatkan layanan dari spesialis lain? Jika ya, siapa yang akan bertanggung jawab untuk mengoordinasikan layanan ini?\n Apa yang Anda lihat sebagai peran keluarga dalam program perawatan ini?\n Seberapa banyak akses yang akan dimiliki keluarga terhadap individu yang memberikan perawatan?\n Obat apa yang biasanya digunakan dengan diagnosis ini?\n Seberapa banyak pengalaman yang Anda miliki dalam merawat individu dengan penyakit ini?\n Apa yang bisa saya lakukan untuk membantu Anda dalam perawatan?"
       ]
@@ -2905,9 +2868,371 @@
     {
       "tag": "fact-17",
       "patterns": ["Apa perbedaan antara profesional kesehatan mental?"],
+      "responses": ["Ada banyak jenis profesional kesehatan mental. Menemukan yang tepat untuk Anda mungkin memerlukan beberapa penelitian."]
+    },
+    {
+      "tag": "fact-18",
+      "patterns": ["Apa itu gangguan kecemasan?", "Bisakah Anda menjelaskan tentang anxiety disorder?"],
       "responses": [
-        "Ada banyak jenis profesional kesehatan mental. Menemukan yang tepat untuk Anda mungkin memerlukan beberapa penelitian."
+        "Gangguan kecemasan adalah kondisi mental yang menyebabkan seseorang mengalami ketakutan, kecemasan, atau kekhawatiran yang berlebihan dan berkepanjangan. Contohnya termasuk gangguan kecemasan umum (GAD), gangguan panik, dan fobia spesifik."
       ]
+    },
+    {
+      "tag": "fact-19",
+      "patterns": ["Apa perbedaan antara stres dan kecemasan?", "Bagaimana cara membedakan stres dan anxiety?"],
+      "responses": [
+        "Stres adalah respons terhadap ancaman atau tekanan eksternal, sedangkan kecemasan adalah respons internal yang bisa terjadi meskipun tidak ada ancaman nyata. Kecemasan cenderung bertahan lebih lama dan lebih sulit dikendalikan."
+      ]
+    },
+    {
+      "tag": "fact-20",
+      "patterns": ["Apakah depresi sama dengan kesedihan biasa?", "Bagaimana cara membedakan depresi dan kesedihan?"],
+      "responses": [
+        "Tidak. Kesedihan adalah respons emosional sementara terhadap peristiwa menyedihkan, sedangkan depresi adalah gangguan mental yang dapat berlangsung selama berminggu-minggu hingga bertahun-tahun, memengaruhi perasaan, pikiran, dan perilaku seseorang."
+      ]
+    },
+    {
+      "tag": "fact-21",
+      "patterns": ["Apa saja gejala umum dari gangguan mental?", "Bagaimana tanda-tanda seseorang mengalami gangguan mental?"],
+      "responses": ["Gejala gangguan mental dapat bervariasi, tetapi beberapa yang umum termasuk perubahan suasana hati, kesulitan berkonsentrasi, gangguan tidur, isolasi sosial, dan perubahan berat badan atau nafsu makan."]
+    },
+    {
+      "tag": "fact-22",
+      "patterns": ["Bisakah gangguan mental disembuhkan?", "Apakah ada obat untuk menyembuhkan gangguan mental?"],
+      "responses": [
+        "Gangguan mental dapat dikelola dengan perawatan yang tepat, seperti terapi, obat-obatan, dan perubahan gaya hidup. Namun, tidak semua gangguan dapat 'disembuhkan' sepenuhnya, tetapi banyak orang dapat menjalani kehidupan yang sehat dengan pengelolaan yang baik."
+      ]
+    },
+    {
+      "tag": "fact-23",
+      "patterns": ["Apakah gangguan mental bisa diwariskan secara genetik?", "Apakah depresi dan kecemasan bisa menurun dari orang tua ke anak?"],
+      "responses": ["Ya, beberapa gangguan mental memiliki komponen genetik, seperti skizofrenia, depresi, dan gangguan bipolar. Namun, faktor lingkungan juga memainkan peran penting."]
+    },
+    {
+      "tag": "fact-24",
+      "patterns": ["Bagaimana cara membantu seseorang yang mengalami gangguan mental?", "Apa yang bisa saya lakukan untuk mendukung teman yang mengalami depresi?"],
+      "responses": [
+        "Dukung mereka dengan mendengarkan tanpa menghakimi, dorong mereka untuk mencari bantuan profesional, dan tetap hadir dalam kehidupan mereka. Jangan menyepelekan perasaan mereka atau menawarkan solusi yang terlalu sederhana."
+      ]
+    },
+    {
+      "tag": "fact-25",
+      "patterns": ["Apa yang menyebabkan gangguan mental?", "Mengapa seseorang bisa mengalami masalah kesehatan mental?"],
+      "responses": ["Gangguan mental dapat disebabkan oleh kombinasi faktor biologis, psikologis, dan lingkungan, seperti ketidakseimbangan kimia otak, trauma masa kecil, stres berkepanjangan, atau faktor genetik."]
+    },
+    {
+      "tag": "fact-26",
+      "patterns": ["Apakah anak-anak bisa mengalami gangguan mental?", "Bisakah gangguan mental terjadi pada usia dini?"],
+      "responses": ["Ya, anak-anak juga bisa mengalami gangguan mental seperti ADHD, kecemasan, dan depresi. Diagnosis dan perawatan dini sangat penting untuk membantu mereka berkembang dengan baik."]
+    },
+    {
+      "tag": "fact-27",
+      "patterns": ["Apa itu PTSD (Post-Traumatic Stress Disorder)?", "Bagaimana gejala PTSD setelah mengalami trauma?"],
+      "responses": [
+        "PTSD adalah gangguan yang berkembang setelah seseorang mengalami atau menyaksikan peristiwa traumatis, seperti kecelakaan, kekerasan, atau bencana alam. Gejalanya termasuk kilas balik, mimpi buruk, dan kecemasan berlebihan."
+      ]
+    },
+    {
+      "tag": "fact-28",
+      "patterns": ["Apakah gangguan mental hanya terjadi pada orang dewasa?", "Apakah anak-anak juga bisa mengalami depresi dan kecemasan?"],
+      "responses": ["Tidak, gangguan mental bisa dialami oleh siapa saja, termasuk anak-anak dan remaja. Beberapa gangguan bahkan lebih umum didiagnosis pada usia muda, seperti ADHD dan gangguan kecemasan."]
+    },
+    {
+      "tag": "fact-29",
+      "patterns": ["Bagaimana cara mengatasi serangan panik?", "Apa yang harus saya lakukan saat mengalami panic attack?"],
+      "responses": [
+        "Coba tarik napas dalam-dalam, fokus pada lingkungan sekitar, dan gunakan teknik grounding seperti menyentuh benda dengan tekstur berbeda. Jika serangan panik sering terjadi, pertimbangkan untuk mencari bantuan profesional."
+      ]
+    },
+    {
+      "tag": "fact-30",
+      "patterns": ["Apakah olahraga bisa membantu kesehatan mental?", "Bisakah aktivitas fisik mengurangi stres dan kecemasan?"],
+      "responses": ["Ya, olahraga dapat meningkatkan produksi endorfin, mengurangi stres, dan membantu mengatasi kecemasan serta depresi."]
+    },
+    {
+      "tag": "fact-31",
+      "patterns": ["Bagaimana cara mengurangi stres sehari-hari?", "Apa teknik terbaik untuk mengelola stres?"],
+      "responses": ["Beberapa cara mengurangi stres termasuk meditasi, olahraga, tidur cukup, menjaga pola makan sehat, dan meluangkan waktu untuk bersantai serta melakukan hobi."]
+    },
+    {
+      "tag": "fact-40",
+      "patterns": ["Apakah stigma terhadap kesehatan mental masih ada?", "Bagaimana cara mengurangi stigma terhadap orang dengan gangguan mental?"],
+      "responses": ["Ya, tetapi semakin banyak upaya dilakukan untuk mengedukasi masyarakat dan mengurangi stigma, sehingga lebih banyak orang merasa nyaman mencari bantuan."]
+    },
+    {
+      "tag": "fact-41",
+      "patterns": ["Apakah gangguan kecemasan bisa sembuh?", "Bagaimana cara mengatasi anxiety disorder?"],
+      "responses": ["Gangguan kecemasan bisa dikelola dengan terapi, obat-obatan, dan perubahan gaya hidup. Namun, beberapa orang mungkin masih mengalami kecemasan dalam situasi tertentu meskipun telah menjalani pengobatan."]
+    },
+    {
+      "tag": "fact-42",
+      "patterns": ["Apa saja faktor risiko terkena gangguan mental?", "Siapa yang lebih rentan mengalami masalah kesehatan mental?"],
+      "responses": ["Faktor risiko termasuk genetika, trauma masa kecil, stres kronis, lingkungan yang tidak sehat, dan penyalahgunaan zat. Namun, siapa pun bisa mengalami gangguan mental, terlepas dari latar belakangnya."]
+    },
+    {
+      "tag": "fact-43",
+      "patterns": ["Bagaimana cara membantu teman yang mengalami serangan panik?", "Apa yang bisa saya lakukan jika melihat seseorang terkena panic attack?"],
+      "responses": ["Tetap tenang, ajak mereka fokus pada pernapasan, dan ingatkan bahwa serangan panik akan berlalu. Hindari menyuruh mereka 'tenang' karena bisa membuat mereka semakin cemas."]
+    },
+    {
+      "tag": "fact-44",
+      "patterns": ["Apa dampak media sosial terhadap kesehatan mental?", "Apakah terlalu banyak menggunakan media sosial bisa menyebabkan kecemasan?"],
+      "responses": ["Penggunaan media sosial yang berlebihan dapat meningkatkan risiko kecemasan dan depresi karena membandingkan diri dengan orang lain, cyberbullying, serta kurangnya interaksi sosial di dunia nyata."]
+    },
+    {
+      "tag": "fact-45",
+      "patterns": ["Apa hubungan antara pola tidur dan kesehatan mental?", "Bagaimana kurang tidur mempengaruhi kondisi psikologis?"],
+      "responses": ["Kurang tidur dapat memperburuk gangguan mental seperti depresi dan kecemasan, serta meningkatkan risiko gangguan kognitif dan emosional. Tidur yang cukup sangat penting untuk kesehatan mental yang optimal."]
+    },
+    {
+      "tag": "fact-46",
+      "patterns": ["Apakah orang dengan gangguan mental bisa bekerja?", "Bisakah penderita gangguan mental menjalani kehidupan normal?"],
+      "responses": ["Ya, banyak orang dengan gangguan mental yang berhasil dalam karier mereka. Dengan dukungan yang tepat, mereka bisa menjalani kehidupan yang produktif dan bermakna."]
+    },
+    {
+      "tag": "fact-47",
+      "patterns": ["Apa saja jenis terapi untuk gangguan mental?", "Metode terapi apa yang paling efektif untuk depresi dan kecemasan?"],
+      "responses": ["Beberapa terapi umum termasuk Cognitive Behavioral Therapy (CBT), terapi psikodinamik, terapi perilaku dialektis (DBT), dan terapi berbasis mindfulness."]
+    },
+    {
+      "tag": "fact-48",
+      "patterns": ["Apakah semua gangguan mental membutuhkan obat?", "Kapan seseorang harus mengonsumsi obat untuk kesehatan mental?"],
+      "responses": ["Tidak semua gangguan mental memerlukan obat. Beberapa dapat dikelola dengan terapi dan perubahan gaya hidup. Namun, pada kasus yang lebih berat, obat dapat membantu menstabilkan kondisi pasien."]
+    },
+    {
+      "tag": "fact-49",
+      "patterns": ["Bagaimana cara mengatasi overthinking?", "Apa cara terbaik untuk berhenti berpikir berlebihan?"],
+      "responses": ["Coba fokus pada saat ini dengan teknik mindfulness, buat jurnal untuk menuliskan pikiran, dan alihkan perhatian dengan melakukan aktivitas yang menyenangkan atau menenangkan."]
+    },
+    {
+      "tag": "fact-50",
+      "patterns": ["Mengapa penting untuk berbicara tentang kesehatan mental?", "Apa manfaat meningkatkan kesadaran tentang kesehatan mental?"],
+      "responses": ["Meningkatkan kesadaran tentang kesehatan mental membantu mengurangi stigma, membuat lebih banyak orang merasa nyaman mencari bantuan, dan meningkatkan kualitas hidup secara keseluruhan."]
+    },
+    {
+      "tag": "unique-1",
+      "patterns": ["Bisakah hewan peliharaan mengalami gangguan mental?", "Apakah ada anjing atau kucing yang bisa mengalami depresi?"],
+      "responses": ["Ya! Hewan peliharaan juga bisa mengalami stres, kecemasan, dan bahkan depresi, terutama jika mereka mengalami perubahan besar dalam lingkungan atau kehilangan pemiliknya."]
+    },
+    {
+      "tag": "unique-2",
+      "patterns": ["Apakah tanaman bisa meningkatkan kesehatan mental?", "Bagaimana berkebun dapat mempengaruhi kesehatan mental seseorang?"],
+      "responses": ["Ya! Berkebun dan merawat tanaman dapat mengurangi stres, meningkatkan fokus, dan memberikan perasaan tenang serta pencapaian."]
+    },
+    {
+      "tag": "unique-3",
+      "patterns": ["Bisakah seseorang terlalu bahagia hingga menjadi masalah?", "Apakah kebahagiaan berlebihan bisa berdampak negatif?"],
+      "responses": ["Ya, dalam beberapa kasus, kebahagiaan berlebihan bisa menjadi tanda gangguan bipolar saat seseorang mengalami episode mania yang berisiko."]
+    },
+    {
+      "tag": "unique-4",
+      "patterns": ["Apakah ada gangguan mental yang hanya muncul di budaya tertentu?", "Apa itu sindrom budaya dalam kesehatan mental?"],
+      "responses": ["Ya, ada gangguan mental spesifik budaya seperti 'Amok' di Asia Tenggara atau 'Ataque de nervios' di Amerika Latin, yang berkaitan dengan norma budaya setempat."]
+    },
+    {
+      "tag": "unique-5",
+      "patterns": ["Apakah seseorang bisa kecanduan berpikir negatif?", "Mengapa saya selalu berpikir negatif meskipun tidak ingin?"],
+      "responses": ["Ya, kebiasaan berpikir negatif bisa menjadi pola yang sulit dihentikan karena otak cenderung mencari pola yang familiar, bahkan jika itu merugikan."]
+    },
+    {
+      "tag": "unique-6",
+      "patterns": ["Apakah ada fobia terhadap kebahagiaan?", "Bisakah seseorang takut untuk bahagia?"],
+      "responses": ["Ya, ada kondisi yang disebut 'Cherophobia', yaitu ketakutan terhadap kebahagiaan karena khawatir kebahagiaan akan diikuti oleh sesuatu yang buruk."]
+    },
+    {
+      "tag": "unique-7",
+      "patterns": ["Apakah musik bisa mempengaruhi kesehatan mental?", "Bisakah mendengarkan musik tertentu membuat seseorang lebih cemas atau depresi?"],
+      "responses": ["Ya, musik bisa mempengaruhi suasana hati. Musik yang terlalu sedih atau agresif dapat memperburuk perasaan negatif, sementara musik yang menenangkan bisa membantu mengurangi stres."]
+    },
+    {
+      "tag": "unique-8",
+      "patterns": ["Apakah tidur terlalu banyak bisa menjadi tanda gangguan mental?", "Bisakah tidur berlebihan menjadi gejala penyakit psikologis?"],
+      "responses": ["Ya, tidur berlebihan bisa menjadi gejala depresi atau gangguan lainnya seperti hypersomnia."]
+    },
+    {
+      "tag": "unique-9",
+      "patterns": ["Bisakah stres membuat rambut berubah warna?", "Apakah benar stres bisa menyebabkan rambut beruban?"],
+      "responses": ["Ya, stres kronis dapat menyebabkan rambut beruban lebih cepat karena mempengaruhi sel pigmen di folikel rambut."]
+    },
+    {
+      "tag": "unique-10",
+      "patterns": ["Bisakah seseorang mengalami kecemasan karena terlalu banyak pilihan?", "Mengapa saya merasa cemas saat harus memilih sesuatu?"],
+      "responses": ["Ya, ini disebut 'Choice Overload' atau 'Decision Paralysis', di mana terlalu banyak pilihan membuat seseorang merasa stres dan sulit mengambil keputusan."]
+    },
+    {
+      "tag": "unique-11",
+      "patterns": ["Apakah terlalu banyak bermain game bisa mempengaruhi kesehatan mental?", "Bisakah game membantu mengurangi stres?"],
+      "responses": ["Game bisa memiliki efek positif dan negatif. Beberapa game membantu mengurangi stres, tetapi kecanduan game bisa menyebabkan kecemasan dan isolasi sosial."]
+    },
+    {
+      "tag": "unique-12",
+      "patterns": ["Bisakah cuaca mempengaruhi suasana hati?", "Mengapa saya merasa lebih sedih saat musim hujan?"],
+      "responses": ["Ya, ini disebut Seasonal Affective Disorder (SAD), yaitu gangguan suasana hati yang dipicu oleh perubahan musim, terutama musim dingin atau hujan."]
+    },
+    {
+      "tag": "unique-13",
+      "patterns": ["Bisakah seseorang menjadi kecanduan stres?", "Mengapa saya selalu mencari situasi yang membuat saya stres?"],
+      "responses": ["Ya, beberapa orang bisa terbiasa dengan adrenalin yang dihasilkan oleh stres dan merasa kosong jika tidak dalam situasi penuh tekanan."]
+    },
+    {
+      "tag": "unique-14",
+      "patterns": ["Apakah gangguan mental bisa menyebar seperti penyakit menular?", "Bisakah saya 'tertular' depresi dari teman saya?"],
+      "responses": ["Tidak secara biologis, tetapi lingkungan sosial yang negatif bisa membuat seseorang lebih rentan terhadap gangguan mental."]
+    },
+    {
+      "tag": "unique-15",
+      "patterns": ["Bisakah terlalu banyak membaca berita membuat seseorang cemas?", "Apakah doomscrolling bisa mempengaruhi kesehatan mental?"],
+      "responses": ["Ya, kebiasaan membaca berita negatif secara terus-menerus, atau 'doomscrolling', dapat meningkatkan kecemasan dan stres."]
+    },
+    {
+      "tag": "unique-16",
+      "patterns": ["Bisakah manusia mengalami trauma dari kehidupan masa lalu?", "Apakah mungkin saya merasa cemas karena kejadian yang tidak saya ingat?"],
+      "responses": ["Ada teori yang menyebutkan bahwa trauma bisa diwariskan melalui genetika atau lingkungan, tetapi tidak ada bukti ilmiah bahwa kita membawa ingatan dari kehidupan masa lalu."]
+    },
+    {
+      "tag": "unique-17",
+      "patterns": ["Apakah alien bisa mengalami gangguan mental?", "Jika alien ada, apakah mereka juga bisa mengalami stres dan depresi?"],
+      "responses": ["Jika alien memiliki sistem saraf dan emosi seperti manusia, kemungkinan mereka juga bisa mengalami gangguan mental. Namun, tanpa bukti keberadaan mereka, ini masih spekulasi."]
+    },
+    {
+      "tag": "unique-18",
+      "patterns": ["Bisakah seseorang kecanduan kesepian?", "Mengapa saya merasa lebih nyaman sendirian daripada dengan orang lain?"],
+      "responses": ["Ya, beberapa orang bisa terbiasa dengan kesepian dan merasa cemas saat harus berinteraksi dengan orang lain, yang bisa menjadi tanda gangguan kecemasan sosial."]
+    },
+    {
+      "tag": "unique-19",
+      "patterns": ["Apakah manusia bisa bermimpi tentang hal yang belum pernah mereka alami?", "Bagaimana mungkin saya bermimpi tentang tempat yang belum pernah saya kunjungi?"],
+      "responses": ["Ya, otak kita dapat menciptakan skenario berdasarkan gabungan ingatan, imajinasi, dan pengalaman tidak langsung seperti film atau cerita."]
+    },
+    {
+      "tag": "unique-20",
+      "patterns": ["Bisakah seseorang mengalami kecanduan cinta?", "Apakah cinta bisa berbahaya bagi kesehatan mental?"],
+      "responses": ["Ya, kecanduan cinta atau 'love addiction' terjadi ketika seseorang terlalu bergantung pada hubungan romantis untuk merasa bahagia dan bisa mengalami kecemasan ekstrem jika berpisah."]
+    },
+    {
+      "tag": "unique-21",
+      "patterns": ["Bisakah manusia memiliki 'kepribadian online' yang berbeda dari dunia nyata?", "Mengapa saya merasa lebih percaya diri saat berbicara di media sosial dibandingkan di dunia nyata?"],
+      "responses": ["Ya, banyak orang memiliki persona online yang berbeda karena anonimitas dan kontrol lebih besar atas cara mereka menampilkan diri."]
+    },
+    {
+      "tag": "unique-22",
+      "patterns": ["Bisakah warna favorit seseorang mencerminkan kesehatan mentalnya?", "Apakah warna-warna tertentu bisa menunjukkan suasana hati seseorang?"],
+      "responses": ["Beberapa penelitian menunjukkan bahwa preferensi warna bisa berhubungan dengan emosi, tetapi tidak selalu mencerminkan kesehatan mental seseorang secara langsung."]
+    },
+    {
+      "tag": "unique-23",
+      "patterns": ["Apakah seseorang bisa kecanduan belajar?", "Bisakah terlalu banyak belajar berdampak negatif pada kesehatan mental?"],
+      "responses": ["Ya, dalam kasus ekstrim, seseorang bisa mengalami kecanduan belajar atau 'academic addiction' yang menyebabkan stres berlebihan dan gangguan tidur."]
+    },
+    {
+      "tag": "unique-24",
+      "patterns": ["Bisakah seseorang mengalami stres karena terlalu banyak kebahagiaan?", "Mengapa saya merasa cemas saat semuanya berjalan dengan baik?"],
+      "responses": ["Ya, beberapa orang mengalami 'happiness anxiety', di mana mereka merasa khawatir bahwa kebahagiaan mereka akan segera berakhir."]
+    },
+    {
+      "tag": "unique-25",
+      "patterns": ["Apakah mungkin manusia bisa membaca pikiran orang lain?", "Bisakah intuisi saya terhadap orang lain berasal dari pengalaman psikologis?"],
+      "responses": ["Bukan membaca pikiran, tetapi otak kita sangat ahli dalam membaca ekspresi wajah, bahasa tubuh, dan pola perilaku untuk memprediksi tindakan seseorang."]
+    },
+    {
+      "tag": "unique-26",
+      "patterns": ["Bisakah seseorang menjadi kecanduan berpura-pura bahagia?", "Mengapa saya terus tersenyum padahal merasa sedih di dalam?"],
+      "responses": ["Ya, ini disebut 'smiling depression', di mana seseorang menyembunyikan perasaan aslinya dengan berpura-pura bahagia agar tidak terlihat lemah."]
+    },
+    {
+      "tag": "unique-27",
+      "patterns": ["Apakah orang bisa mengalami nostalgia tentang masa depan?", "Mengapa saya merindukan sesuatu yang belum terjadi?"],
+      "responses": ["Ya, ini disebut 'anticipatory nostalgia', di mana seseorang merasa rindu terhadap sesuatu yang belum terjadi karena sudah membayangkan kehilangannya di masa depan."]
+    },
+    {
+      "tag": "unique-28",
+      "patterns": ["Bisakah seseorang mengalami trauma karena terlalu banyak pilihan?", "Apakah terlalu banyak kebebasan bisa membuat stres?"],
+      "responses": ["Ya, ini disebut 'Paradox of Choice', di mana terlalu banyak pilihan justru membuat seseorang lebih stres dan sulit mengambil keputusan."]
+    },
+    {
+      "tag": "unique-29",
+      "patterns": ["Apakah deja vu ada hubungannya dengan kesehatan mental?", "Mengapa saya sering merasa pernah mengalami suatu kejadian sebelumnya?"],
+      "responses": ["Deja vu adalah fenomena psikologis yang berkaitan dengan pemrosesan memori di otak. Dalam beberapa kasus, bisa menjadi tanda gangguan neurologis atau stres berlebihan."]
+    },
+    {
+      "tag": "unique-30",
+      "patterns": ["Bisakah pikiran manusia benar-benar dikendalikan?", "Apakah saya bisa dipengaruhi untuk berpikir atau bertindak tanpa menyadarinya?"],
+      "responses": ["Ya, manipulasi psikologis seperti gaslighting dan propaganda bisa mempengaruhi cara seseorang berpikir tanpa mereka sadari."]
+    },
+    {
+      "tag": "unique-31",
+      "patterns": ["Apakah mendukung Manchester United bisa menyebabkan stres kronis?", "Bisakah jadi fans tim yang selalu kalah mempengaruhi kesehatan mental?"],
+      "responses": ["Ya, mendukung tim yang sering kalah bisa menyebabkan stres, kecemasan, bahkan depresi ringan. Fenomena ini disebut 'sports fan depression'."]
+    },
+    {
+      "tag": "unique-32",
+      "patterns": ["Bisakah hasil pertandingan sepak bola mempengaruhi produktivitas kerja seseorang?", "Mengapa saya merasa tidak semangat kerja setelah tim favorit saya kalah?"],
+      "responses": ["Ya, penelitian menunjukkan bahwa kekalahan tim favorit dapat menurunkan mood dan produktivitas, sementara kemenangan bisa meningkatkan motivasi."]
+    },
+    {
+      "tag": "unique-33",
+      "patterns": ["Apakah wasit di Liga Inggris punya kesehatan mental yang kuat?", "Bagaimana tekanan menjadi wasit di pertandingan besar mempengaruhi psikologis seseorang?"],
+      "responses": ["Ya, wasit menghadapi tekanan besar dari pemain, pelatih, dan fans, yang bisa menyebabkan kecemasan dan stres tinggi."]
+    },
+    {
+      "tag": "unique-34",
+      "patterns": ["Bisakah seseorang mengalami PTSD karena final Liga Champions?", "Mengapa saya masih trauma dengan final tahun lalu?"],
+      "responses": ["Secara teknis, bukan PTSD klinis, tapi pengalaman menyakitkan dari kekalahan besar bisa menyebabkan distress psikologis berkepanjangan."]
+    },
+    {
+      "tag": "unique-35",
+      "patterns": ["Mengapa pemain bola sering pura-pura cedera? Apakah itu kebiasaan psikologis?", "Apakah diving dalam sepak bola bisa dianggap sebagai mekanisme psikologis?"],
+      "responses": ["Ya, ini bisa disebut sebagai 'strategic deception', di mana pemain secara psikologis belajar bahwa berpura-pura cedera bisa menguntungkan timnya."]
+    },
+    {
+      "tag": "unique-36",
+      "patterns": ["Bisakah seseorang mengalami kecanduan menonton sepak bola?", "Mengapa saya merasa hampa jika tidak menonton pertandingan tim favorit saya?"],
+      "responses": ["Ya, kecanduan sepak bola nyata dan bisa dikategorikan sebagai obsesi atau perilaku kompulsif yang mirip dengan kecanduan lainnya."]
+    },
+    {
+      "tag": "unique-37",
+      "patterns": ["Apakah pemain yang sering gagal penalti mengalami trauma psikologis?", "Mengapa saya masih merasa gugup saat mengingat penalti yang gagal saya eksekusi tahun lalu?"],
+      "responses": ["Ya, kegagalan penalti dalam momen besar bisa menyebabkan trauma psikologis yang disebut 'penalty anxiety', bahkan bagi pemain profesional."]
+    },
+    {
+      "tag": "unique-38",
+      "patterns": ["Bisakah fans sepak bola mengalami gangguan mental karena teori konspirasi VAR?", "Mengapa saya selalu yakin wasit sengaja merugikan tim saya?"],
+      "responses": ["Ya, ini bisa dikaitkan dengan 'confirmation bias', di mana seseorang hanya memperhatikan bukti yang mendukung keyakinan mereka bahwa timnya selalu dirugikan."]
+    },
+    {
+      "tag": "unique-39",
+      "patterns": ["Apakah menonton pertandingan di stadion bisa menyembuhkan depresi?", "Mengapa saya merasa lebih bahagia setelah menyaksikan tim saya langsung di stadion?"],
+      "responses": ["Ya, atmosfer stadion, interaksi sosial, dan pelepasan endorfin saat mendukung tim favorit bisa meningkatkan suasana hati dan mengurangi stres."]
+    },
+    {
+      "tag": "unique-40",
+      "patterns": ["Apakah pemain yang terlalu sering menang kehilangan motivasi?", "Mengapa beberapa pemain kehilangan semangat setelah memenangkan banyak trofi?"],
+      "responses": ["Ya, ini disebut 'winner's fatigue', di mana kesuksesan berulang kali bisa membuat seseorang kehilangan tujuan baru untuk dikejar."]
+    },
+    {
+      "tag": "unique-41",
+      "patterns": ["Apakah fans yang terlalu fanatik bisa mengalami delusi?", "Mengapa saya yakin tim saya adalah yang terbaik meskipun mereka sedang terpuruk?"],
+      "responses": ["Ya, ini disebut 'fanatic bias', di mana seseorang mengalami distorsi kognitif dan menolak fakta yang bertentangan dengan keyakinannya tentang tim favoritnya."]
+    },
+    {
+      "tag": "unique-42",
+      "patterns": ["Apakah ada hubungan antara sepak bola dan filosofi eksistensial?", "Mengapa saya merasa kehidupan ini seperti pertandingan sepak bola?"],
+      "responses": ["Ya, beberapa orang mengaitkan sepak bola dengan filosofi kehidupan, di mana menang dan kalah adalah bagian dari perjalanan eksistensial manusia."]
+    },
+    {
+      "tag": "unique-43",
+      "patterns": ["Apakah pemain yang pindah ke klub rival mengalami gangguan emosional?", "Mengapa pemain merasa bersalah setelah pindah ke klub rival?"],
+      "responses": ["Ya, beberapa pemain mengalami tekanan emosional dan kecemasan akibat kecaman fans setelah pindah ke rival, yang bisa mempengaruhi performa mereka."]
+    },
+    {
+      "tag": "unique-44",
+      "patterns": ["Apakah pelatih yang terlalu banyak memikirkan taktik bisa mengalami insomnia?", "Mengapa saya tidak bisa tidur karena terlalu banyak berpikir tentang strategi sepak bola?"],
+      "responses": ["Ya, stres dan tekanan dalam menyusun strategi bisa menyebabkan gangguan tidur, yang sering dialami oleh pelatih dan analis sepak bola."]
+    },
+    {
+      "tag": "unique-45",
+      "patterns": ["Bisakah kutukan dalam sepak bola mempengaruhi psikologi pemain?", "Mengapa beberapa tim atau pemain percaya bahwa mereka dikutuk?"],
+      "responses": ["Ya, efek psikologis dari 'kutukan' bisa menyebabkan self-fulfilling prophecy, di mana keyakinan terhadap kutukan membuat pemain merasa cemas dan gagal berulang kali."]
     }
   ]
 }

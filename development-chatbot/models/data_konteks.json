@@ -1,0 +1,26 @@
+{
+  "topik_saat_ini": "fact-3",
+  "input_terakhir": "apa itu ptsd",
+  "rantai_konteks": [
+    {
+      "input": "saya ganteng",
+      "tag": "sedih"
+    },
+    {
+      "input": "saya merasa saya dipinggirkan",
+      "tag": "teman-teman"
+    },
+    {
+      "input": "saya selalu diabaikan",
+      "tag": "teman-teman"
+    },
+    {
+      "input": "apa itu anxiety",
+      "tag": "umpan_balik"
+    },
+    {
+      "input": "apa itu ptsd",
+      "tag": "fact-3"
+    }
+  ]
+}

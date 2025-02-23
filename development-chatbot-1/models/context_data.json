@@ -1,0 +1,26 @@
+{
+  "current_topic": "feedback",
+  "last_input": "sangat baik",
+  "context_chain": [
+    {
+      "input": "apa itu anxiety disorder",
+      "tag": "fact-1"
+    },
+    {
+      "input": "saya ingin skizofrenia itu ap",
+      "tag": "feedback"
+    },
+    {
+      "input": "apakh fans mu terkena gangguan mental?",
+      "tag": "feedback"
+    },
+    {
+      "input": "hai",
+      "tag": "salam"
+    },
+    {
+      "input": "sangat baik",
+      "tag": "feedback"
+    }
+  ]
+}

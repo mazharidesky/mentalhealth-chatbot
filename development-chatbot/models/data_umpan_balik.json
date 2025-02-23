@@ -1,0 +1,16 @@
+[
+  {
+    "input": "apa itu gangguan mental",
+    "respons_yang_diharapkan": "kondisi kesehatan yang memengaruhi pikiran emosi dan perilaku seseorang",
+    "respons_bot": "Saya ingin belajar lebih banyak tentang hal ini. Bisa tolong jelaskan maksud Anda?",
+    "timestamp": 1740334872.696305,
+    "tag": "umpan_balik"
+  },
+  {
+    "input": "apa itu anxiety",
+    "respons_yang_diharapkan": "anxiety atau kecemasan adalah perasaan khawatir atau cemas yang berlebihan dan sulit dikendalikan",
+    "respons_bot": "Saya ingin belajar lebih banyak tentang hal ini. Bisa tolong jelaskan maksud Anda?",
+    "timestamp": 1740335276.24625,
+    "tag": "umpan_balik"
+  }
+]

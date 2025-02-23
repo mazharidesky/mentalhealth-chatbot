@@ -1,5 +1,5 @@
 from flask import Flask, render_template, request, jsonify
-from chatbot import ContextualMentalHealthChatbot
+from chatbot import ChatbotKesehatanMental
 import os
 
 
@@ -35,11 +35,15 @@ data = [
 ]
 
 app = Flask(__name__, static_folder='static')
-chatbot = ContextualMentalHealthChatbot('data.json')
+chatbot = ChatbotKesehatanMental('data.json')
 
 @app.route('/')
 def home():
     return render_template('index.html', data=data)
+
+@app.route('/chatbot-1', methods=['GET'])
+def chatbot_1():
+    return render_template('chat.html')
 
 @app.route('/chat', methods=['POST'])
 def chat():
@@ -50,6 +54,8 @@ def chat():
         'tag': response['tag'],
         'confidence': response['confidence']
     })
+
+
 
 if __name__ == '__main__':
     app.run(debug=True)

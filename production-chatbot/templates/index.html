@@ -11,15 +11,17 @@
     />
     <script src="https://unpkg.com/@tailwindcss/browser@4"></script>
     <link href="../static/styles/style.css" rel="stylesheet" />
-    <title>Sahabat Jiwa</title>
+    <title>SahabatJiwa</title>
   </head>
   <body>
     <nav class="py-8 mx-auto px-4 relative z-10 shadow-md">
       <div class="container flex justify-between items-center">
-        <div class="flex items-center gap-2">
-          <img src="../static/img/logo.png" alt="logo" />
-          <p class="font-bold text-3xl text-[#F4BC61]">SahabatJiwa</p>
-        </div>
+        <a href="{{ url_for('home') }}" class="cursor-pointer">
+          <div class="flex items-center gap-2">
+            <img src="../static/img/logo.png" alt="logo" class="w-[30%]" />
+            <p class="font-bold text-3xl text-[#F4BC61]">SahabatJiwa</p>
+          </div>
+        </a>
         <div class="flex gap-8">
           <a
             class="text-md hover:bg-[#FFDC90] px-2 py-2 rounded-xl transition duration-300"
@@ -37,9 +39,9 @@
             >Dukungan</a
           >
         </div>
-        <a href="#">
+        <a href="{{ url_for('chatbot_1') }}">
           <button
-            class="bg-[#FFDC90] font-semibold rounded-full px-12 py-4 hover:bg-[#F4BC61] transition duration-300"
+            class="bg-[#FFDC90] font-semibold rounded-full px-12 py-4 hover:bg-[#F4BC61] transition duration-300 cursor-pointer"
           >
             ChatBot
           </button>
@@ -61,9 +63,9 @@
               Eleifend aliquet morbi dapibus ipsum dignissim eu dui tellus duis.
             </p>
             <div class="mt-6">
-              <a href="#">
+              <a href="{{ url_for('chatbot_1') }}">
                 <button
-                  class="border border-[#FFDC90] font-semibold rounded-full px-12 py-4 hover:bg-[#F4BC61] transition duration-300"
+                  class="border border-[#FFDC90] font-semibold rounded-full px-12 py-4 cursor-pointer hover:bg-[#F4BC61] transition duration-300"
                 >
                   ChatBot
                 </button>
@@ -117,7 +119,7 @@
                 </div>
                 <a href="https://wa.me/{{ item.hubungi}}">
                   <button
-                    class="bg-[#EEFFFF] font-semibold px-6 py-2 rounded-xl hover:bg-[#9DC4C2] transition duration-300"
+                    class="bg-[#EEFFFF] font-semibold px-6 py-2 rounded-xl cursor-pointer hover:bg-[#9DC4C2] transition duration-300"
                   >
                     Hubungi
                   </button>
@@ -160,11 +162,13 @@
             >
           </div>
           <div>
-            <button
-              class="bg-[#FFDC90] font-semibold rounded-full px-12 py-4 hover:bg-[#F4BC61] transition duration-300"
-            >
-              ChatBot
-            </button>
+            <a href="{{url_for('chatbot_1')}}">
+              <button
+                class="bg-[#FFDC90] font-semibold rounded-full px-12 py-4 cursor-pointer hover:bg-[#F4BC61] transition duration-300"
+              >
+                ChatBot
+              </button>
+            </a>
           </div>
         </div>
       </div>

@@ -2,6 +2,39 @@ body {
   font-family: "Montserrat", sans-serif; /* Fallback to sans-serif if Roboto is not available */
 }
 
+.kuning {
+  #FFDC90
+}
+
+.typing-animation {
+  display: inline-flex;
+  gap: 0.3rem;
+  margin: 0.5rem;
+}
+.typing-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background-color: #4a5568;
+  animation: typing 1.4s infinite;
+}
+.typing-dot:nth-child(2) {
+  animation-delay: 0.2s;
+}
+.typing-dot:nth-child(3) {
+  animation-delay: 0.4s;
+}
+@keyframes typing {
+  0%,
+  60%,
+  100% {
+    transform: translateY(0);
+  }
+  30% {
+    transform: translateY(-4px);
+  }
+}
+
 .container {
   margin-left: auto;
   margin-right: auto;

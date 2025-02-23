@@ -1,0 +1,135 @@
+[
+  {
+    "input": "baik",
+    "respons_yang_diharapkan": "yaudah",
+    "respons_bot": "Maaf, saya belum familiar dengan topik ini. Bisakah Anda menjelaskan lebih detail?",
+    "timestamp": 1740332988.331747,
+    "tag": "umpan_balik"
+  },
+  {
+    "input": "bisakah seseorang menjadi kecanduan stres",
+    "respons_yang_diharapkan": "ya beberapa orang bisa terbiasa dengan adrenalin yang dihasilkan oleh stres dan merasa kosong jika tidak dalam situasi penuh tekanan",
+    "respons_bot": "Saya belum tahu jawaban yang tepat. Menurut Anda, bagaimana seharusnya saya merespons?",
+    "timestamp": 1740333092.406621,
+    "tag": "umpan_balik"
+  },
+  {
+    "input": "apa yang bisa saya lakukan jika melihat seseorang terkena panic attack",
+    "respons_yang_diharapkan": "tetap tenang ajak mereka fokus pada pernapasan dan ingatkan bahwa serangan panik akan berlalu hindari menyuruh mereka tenang karena bisa membuat mereka semakin cemas",
+    "respons_bot": "Ini topik baru untuk saya. Bisakah Anda mengajarkan saya cara merespons yang tepat?",
+    "timestamp": 1740333160.30498,
+    "tag": "umpan_balik"
+  },
+  {
+    "input": "apa saja tanda penyakit mental",
+    "respons_yang_diharapkan": "gejala gangguan kesehatan mental bervariasi tergantung pada jenis dan tingkat keparahan kondisi berikut adalah daftar gejala umum yang mungkin menunjukkan gangguan kesehatan mental terutama ketika beberapa gejala muncul sekaligus n pada orang dewasan pemikiran yang bingungn kesedihan atau mudah marah yang berkepanjangann perubahan suasana hati yang ekstremn ketakutan kekhawatiran atau kecemasan yang berlebihann penarikan sosialn perubahan dramatis dalam kebiasaan makan atau tidurn perasaan marah yang kuatn delusi atau halusinasi melihat atau mendengar halhal yang sebenarnya tidak adan ketidakmampuan yang meningkat untuk mengatasi masalah dan aktivitas sehariharin pikiran tentang bunuh dirin penolakan terhadap masalah yang jelasn banyak masalah fisik yang tidak dapat dijelaskann penyalahgunaan obat danatau alkoholn n pada anakanak yang lebih besar dan praremajan penyalahgunaan obat danatau alkoholn ketidakmampuan untuk mengatasi masalah dan aktivitas sehariharin perubahan dalam kebiasaan tidur danatau makann keluhan fisik yang berlebihann menentang otoritas bolos sekolah mencuri atau merusak propertin ketakutan yang berlebihan untuk menambah berat badann suasana hati negatif yang berkepanjangan sering disertai dengan nafsu makan yang buruk dan pikiran tentang kematiann ledakan kemarahan yang seringn n pada anakanak yang lebih mudan perubahan dalam kinerja sekolahn nilai buruk meskipun usaha yang kuatn kekhawatiran atau kecemasan yang berlebihann hiperaktivitasn mimpi buruk yang persistenn ketidakpatuhan danatau perilaku agresif yang persistenn tantrum kemarahan yang sering",
+    "respons_bot": "Maaf, saya belum familiar dengan topik ini. Bisakah Anda menjelaskan lebih detail?",
+    "timestamp": 1740333219.293335,
+    "tag": "umpan_balik"
+  },
+  {
+    "input": "apa saja tanda peringatan penyakit mental",
+    "respons_yang_diharapkan": "gejala gangguan kesehatan mental bervariasi tergantung pada jenis dan tingkat keparahan kondisi berikut adalah daftar gejala umum yang mungkin menunjukkan gangguan kesehatan mental terutama ketika beberapa gejala muncul sekaligus n pada orang dewasan pemikiran yang bingungn kesedihan atau mudah marah yang berkepanjangann perubahan suasana hati yang ekstremn ketakutan kekhawatiran atau kecemasan yang berlebihann penarikan sosialn perubahan dramatis dalam kebiasaan makan atau tidurn perasaan marah yang kuatn delusi atau halusinasi melihat atau mendengar halhal yang sebenarnya tidak adan ketidakmampuan yang meningkat untuk mengatasi masalah dan aktivitas sehariharin pikiran tentang bunuh dirin penolakan terhadap masalah yang jelasn banyak masalah fisik yang tidak dapat dijelaskann penyalahgunaan obat danatau alkoholn n pada anakanak yang lebih besar dan praremajan penyalahgunaan obat danatau alkoholn ketidakmampuan untuk mengatasi masalah dan aktivitas sehariharin perubahan dalam kebiasaan tidur danatau makann keluhan fisik yang berlebihann menentang otoritas bolos sekolah mencuri atau merusak propertin ketakutan yang berlebihan untuk menambah berat badann suasana hati negatif yang berkepanjangan sering disertai dengan nafsu makan yang buruk dan pikiran tentang kematiann ledakan kemarahan yang seringn n pada anakanak yang lebih mudan perubahan dalam kinerja sekolahn nilai buruk meskipun usaha yang kuatn kekhawatiran atau kecemasan yang berlebihann hiperaktivitasn mimpi buruk yang persistenn ketidakpatuhan danatau perilaku agresif yang persistenn tantrum kemarahan yang sering",
+    "respons_bot": "Maaf, saya belum familiar dengan topik ini. Bisakah Anda menjelaskan lebih detail?",
+    "timestamp": 1740333241.227743,
+    "tag": "umpan_balik"
+  },
+  {
+    "input": "apa itu terapis",
+    "respons_yang_diharapkan": "terapis adalah istilah luas yang merujuk pada profesional yang terlatih untuk memberikan perawatan dan rehabilitasi istilah ini sering diterapkan pada psikolog tetapi juga dapat mencakup orang lain yang memberikan berbagai layanan termasuk pekerja sosial konselor pelatih kehidupan dan banyak lainnya",
+    "respons_bot": "Saya belum tahu jawaban yang tepat. Menurut Anda, bagaimana seharusnya saya merespons?",
+    "timestamp": 1740333269.865443,
+    "tag": "umpan_balik"
+  },
+  {
+    "input": "apa yang dilakukan terapis",
+    "respons_yang_diharapkan": "terapis adalah istilah luas yang merujuk pada profesional yang terlatih untuk memberikan perawatan dan rehabilitasi istilah ini sering diterapkan pada psikolog tetapi juga dapat mencakup orang lain yang memberikan berbagai layanan termasuk pekerja sosial konselor pelatih kehidupan dan banyak lainnya",
+    "respons_bot": "Saya ingin belajar lebih banyak tentang hal ini. Bisa tolong jelaskan maksud Anda?",
+    "timestamp": 1740333279.523585,
+    "tag": "umpan_balik"
+  },
+  {
+    "input": "apa itu kesehatan mental",
+    "respons_yang_diharapkan": "Kesehatan mental adalah keadaan kesejahteraan di mana individu menyadari kemampuan dirinya, dapat mengatasi stres normal dalam hidup, dapat bekerja secara produktif dan bermanfaat, serta mampu memberikan kontribusi kepada komunitasnya.",
+    "respons_bot": "Kesehatan mental mencakup kesejahteraan emosional, psikologis, dan sosial kita. Ini mempengaruhi cara kita berpikir, merasa, dan bertindak.",
+    "timestamp": 1708761600,
+    "tag": "fact-1"
+  },
+  {
+    "input": "mengapa kesehatan mental itu penting",
+    "respons_yang_diharapkan": "Mempertahankan kesehatan mental sangat penting untuk menstabilkan perilaku, emosi, dan pikiran yang konstruktif. Fokus pada perawatan kesehatan mental dapat meningkatkan produktivitas, meningkatkan citra diri kita, dan memperbaiki hubungan.",
+    "respons_bot": "Kesehatan mental penting untuk kehidupan yang seimbang dan produktif",
+    "timestamp": 1708761600,
+    "tag": "fact-2"
+  },
+  {
+    "input": "apa itu depresi",
+    "respons_yang_diharapkan": "Gangguan kesehatan mental yang ditandai dengan suasana hati yang tertekan secara terus-menerus atau kehilangan minat dalam aktivitas, yang menyebabkan gangguan signifikan dalam kehidupan sehari-hari.",
+    "respons_bot": "Depresi adalah gangguan mood yang serius",
+    "timestamp": 1708761600,
+    "tag": "fact-3"
+  },
+  {
+    "input": "bagaimana saya tahu jika saya mengalami depresi",
+    "respons_yang_diharapkan": "Untuk diagnosis depresi, seseorang perlu mengalami suasana hati yang rendah atau kehilangan minat atau kesenangan dalam hidup selama setidaknya 2 minggu. Selain itu, mereka akan mengalami gejala berikut: perasaan sedih, putus asa, atau mudah marah hampir setiap hari.",
+    "respons_bot": "Ada beberapa gejala yang bisa mengindikasikan depresi",
+    "timestamp": 1708761600,
+    "tag": "fact-5"
+  },
+  {
+    "input": "apa itu terapis",
+    "respons_yang_diharapkan": "Terapis adalah istilah luas yang merujuk pada profesional yang terlatih untuk memberikan perawatan dan rehabilitasi. Istilah ini sering diterapkan pada psikolog, tetapi juga dapat mencakup orang lain yang memberikan berbagai layanan, termasuk pekerja sosial, konselor, pelatih kehidupan, dan banyak lainnya.",
+    "respons_bot": "Terapis adalah profesional kesehatan mental",
+    "timestamp": 1708761600,
+    "tag": "fact-6"
+  },
+  {
+    "input": "apa itu terapi",
+    "respons_yang_diharapkan": "Terapi adalah bentuk perawatan yang bertujuan untuk membantu menyelesaikan masalah mental atau emosional. Ini bermanfaat bagi mereka yang memiliki kondisi kesehatan mental atau bahkan tantangan kehidupan sehari-hari.",
+    "respons_bot": "Terapi adalah metode pengobatan untuk masalah mental",
+    "timestamp": 1708761600,
+    "tag": "fact-7"
+  },
+  {
+    "input": "apa itu gangguan kecemasan",
+    "respons_yang_diharapkan": "Gangguan kecemasan adalah kondisi mental yang menyebabkan seseorang mengalami ketakutan, kecemasan, atau kekhawatiran yang berlebihan dan berkepanjangan. Contohnya termasuk gangguan kecemasan umum (GAD), gangguan panik, dan fobia spesifik.",
+    "respons_bot": "Gangguan kecemasan adalah kondisi yang menyebabkan rasa cemas berlebihan",
+    "timestamp": 1708761600,
+    "tag": "fact-18"
+  },
+  {
+    "input": "apa perbedaan antara stres dan kecemasan",
+    "respons_yang_diharapkan": "Stres adalah respons terhadap ancaman atau tekanan eksternal, sedangkan kecemasan adalah respons internal yang bisa terjadi meskipun tidak ada ancaman nyata. Kecemasan cenderung bertahan lebih lama dan lebih sulit dikendalikan.",
+    "respons_bot": "Stres dan kecemasan memiliki perbedaan dalam pemicunya",
+    "timestamp": 1708761600,
+    "tag": "fact-19"
+  },
+  {
+    "input": "apakah depresi sama dengan kesedihan biasa",
+    "respons_yang_diharapkan": "Tidak. Kesedihan adalah respons emosional sementara terhadap peristiwa menyedihkan, sedangkan depresi adalah gangguan mental yang dapat berlangsung selama berminggu-minggu hingga bertahun-tahun, memengaruhi perasaan, pikiran, dan perilaku seseorang.",
+    "respons_bot": "Depresi berbeda dengan kesedihan biasa",
+    "timestamp": 1708761600,
+    "tag": "fact-20"
+  },
+  {
+    "input": "bagaimana cara mengatasi serangan panik",
+    "respons_yang_diharapkan": "Coba tarik napas dalam-dalam, fokus pada lingkungan sekitar, dan gunakan teknik grounding seperti menyentuh benda dengan tekstur berbeda. Jika serangan panik sering terjadi, pertimbangkan untuk mencari bantuan profesional.",
+    "respons_bot": "Ada beberapa teknik yang bisa membantu mengatasi serangan panik",
+    "timestamp": 1708761600,
+    "tag": "fact-29"
+  },
+  {
+    "input": "hai",
+    "respons_yang_diharapkan": "halo",
+    "respons_bot": "Maaf, saya belum familiar dengan topik ini. Bisakah Anda menjelaskan lebih detail?",
+    "timestamp": 1740333910.801354,
+    "tag": "umpan_balik"
+  },
+  {
+    "input": "namaste",
+    "respons_yang_diharapkan": "clear",
+    "respons_bot": "Saya belum tahu jawaban yang tepat. Menurut Anda, bagaimana seharusnya saya merespons?",
+    "timestamp": 1740333947.893543,
+    "tag": "umpan_balik"
+  }
+]

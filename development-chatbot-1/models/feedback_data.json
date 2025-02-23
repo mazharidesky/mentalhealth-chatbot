@@ -1,0 +1,158 @@
+[
+  {
+    "input": "hallo",
+    "expected_response": "hallo apa keresahan kamu",
+    "bot_response": "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
+    "timestamp": 1734442644.043881
+  },
+  {
+    "input": "berikan saya saran agar tidak cemas",
+    "expected_response": "untuk mengurangi kecemasan cobalah beberapa strategi sederhana pertama luangkan waktu untuk bernapas dalamdalam dan perlahan yang dapat membantu menenangkan pikiran aktivitas fisik seperti berjalan atau berolahraga juga sangat bermanfaat untuk meredakan ketegangan",
+    "bot_response": "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
+    "timestamp": 1734442784.417687
+  },
+  {
+    "input": "bagaimana melakukan studi tidur",
+    "expected_response": "melakukan studi tidur atau polisomnografi adalah proses yang digunakan untuk menganalisis pola tidur dan mengidentifikasi gangguan tidur pertama anda perlu berkonsultasi dengan dokter atau spesialis tidur untuk mendiskusikan gejala yang anda alami seperti kesulitan tidur mendengkur atau kelelahan di siang hari jika diperlukan dokter akan merujuk anda ke pusat tidur untuk melakukan studi tidur selama studi anda akan diminta untuk tidur di fasilitas yang dilengkapi dengan peralatan pemantauan sensor akan dipasang di tubuh anda untuk merekam aktivitas otak detak jantung pernapasan dan gerakan tubuh selama tidur",
+    "bot_response": "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
+    "timestamp": 1734443276.033534
+  },
+  {
+    "input": "terima kasih",
+    "expected_response": "samasama semoga membantu atas kesulitan kamu",
+    "bot_response": "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
+    "timestamp": 1734443393.837885
+  },
+  {
+    "input": "saya sering main hp",
+    "expected_response": "jika anda sering bermain ponsel penting untuk mengatur kebiasaan penggunaan agar tidak mengganggu kesehatan fisik dan mental anda pertama cobalah untuk menetapkan batasan waktu penggunaan ponsel setiap hari misalnya dengan menggunakan aplikasi pengatur waktu atau fitur pengingat di ponsel anda selain itu luangkan waktu untuk beristirahat dari layar dengan melakukan aktivitas lain yang menyenangkan seperti membaca buku berolahraga atau berkumpul dengan teman dan keluarga pastikan juga untuk menjaga jarak yang cukup antara mata dan layar ponsel untuk mengurangi ketegangan mata",
+    "bot_response": "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
+    "timestamp": 1734444839.888927
+  },
+  {
+    "input": "sangat baik",
+    "expected_response": "senang mendengar bahwa anda merasa sangat baik kesehatan mental yang positif itu penting apakah ada hal tertentu yang membuat anda merasa baik hari ini",
+    "bot_response": "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
+    "timestamp": 1734596632.258077
+  },
+  {
+    "input": "apakah seseorang bisa mendapatkan gangguan mental hanya karena tidak suka makan pizza",
+    "expected_response": "tidak seseorang tidak dapat mengalami gangguan mental hanya karena tidak suka makan pizza gangguan mental biasanya disebabkan oleh kombinasi faktor genetik biologis lingkungan dan psikologis yang kompleks ketidaksukaan terhadap makanan tertentu seperti pizza lebih berkaitan dengan preferensi pribadi atau pengalaman rasa dan tidak cukup untuk memicu gangguan mental",
+    "bot_response": "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
+    "timestamp": 1734597855.061636
+  },
+  {
+    "input": "jika saya berbicara dengan tanaman apakah itu berarti saya menderita stress",
+    "expected_response": "berbicara dengan tanaman tidak secara otomatis berarti anda menderita stres banyak orang melakukan hal ini sebagai cara untuk mengekspresikan diri merawat tanaman atau bahkan merasa lebih terhubung dengan alam aktivitas ini bisa menjadi bentuk interaksi yang positif dan menenangkan yang dapat membantu mengurangi stres dan meningkatkan suasana hati berbicara dengan tanaman juga dapat menciptakan rasa tanggung jawab dan memberikan kenyamanan emosional namun jika anda merasa bahwa perilaku ini disertai dengan perasaan kesepian yang mendalam atau mengganggu kehidupan seharihari anda mungkin ada baiknya untuk mengeksplorasi perasaan tersebut lebih lanjut dengan seorang profesional",
+    "bot_response": "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
+    "timestamp": 1734598880.911975
+  },
+  {
+    "input": "bagaimana cara saya untuk menangani depresi",
+    "expected_response": "menangani depresi memerlukan pendekatan yang holistik dan sering kali melibatkan beberapa strategi pertama penting untuk mencari bantuan profesional seperti psikolog atau psikiater yang dapat memberikan diagnosis yang tepat dan merencanakan terapi yang sesuai seperti terapi kognitif perilaku cbt atau pengobatan jika diperlukan selain itu cobalah untuk menjaga rutinitas harian yang teratur termasuk tidur yang cukup pola makan sehat dan olahraga secara teratur karena aktivitas fisik dapat meningkatkan suasana hati",
+    "bot_response": "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
+    "timestamp": 1734610227.305384
+  },
+  {
+    "input": "bisakah seseorang mengalami gangguan mental hanya karena terlalu banyak tidur di siang hari",
+    "expected_response": "terlalu banyak tidur di siang hari tidak secara langsung menyebabkan gangguan mental tetapi dapat menjadi gejala atau faktor yang berkontribusi pada masalah kesehatan mental yang lebih besar misalnya tidur berlebihan bisa terkait dengan kondisi seperti depresi kecemasan atau gangguan tidur lainnya yang dapat memengaruhi kualitas hidup dan kesejahteraan mental seseorang jika seseorang merasa perlu tidur lebih dari biasanya dan mengalami perubahan suasana hati energi atau fungsi seharihari penting untuk mencari bantuan profesional untuk mengevaluasi penyebabnya dengan demikian meskipun tidur siang yang berlebihan sendiri tidak menyebabkan gangguan mental itu bisa menjadi indikator adanya masalah yang lebih dalam yang perlu ditangani",
+    "bot_response": "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
+    "timestamp": 1734610581.209241
+  },
+  {
+    "input": "apakah berpikir bahwa saya adalah superhero berarti saya harus dirawat di rumah sakit jiwa",
+    "expected_response": "berpikir bahwa anda adalah superhero tidak secara otomatis berarti anda harus dirawat di rumah sakit jiwa karena banyak orang memiliki imajinasi atau fantasi yang tidak berbahaya tentang menjadi pahlawan atau memiliki kekuatan super sebagai bentuk pelarian atau hiburan namun jika keyakinan tersebut mengganggu fungsi seharihari anda menyebabkan masalah dalam hubungan sosial atau disertai dengan gejala lain seperti delusi atau ketidakmampuan untuk membedakan antara kenyataan dan imajinasi maka itu bisa menjadi tanda adanya masalah kesehatan mental yang lebih serius dalam kasus seperti itu penting untuk berkonsultasi dengan profesional kesehatan mental untuk mendapatkan evaluasi dan dukungan yang tepat",
+    "bot_response": "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
+    "timestamp": 1734610955.484263
+  },
+  {
+    "input": "kemarin",
+    "expected_response": "coba ceritakan apa yang terjadi kemarin",
+    "bot_response": "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
+    "timestamp": 1739250461.803356
+  },
+  {
+    "input": "jika saya mendengarkan musik keras sepanjang waktu apakah itu akan membuat saya gila",
+    "expected_response": "mendengarkan musik keras secara terusmenerus tidak secara langsung membuat seseorang gila tetapi dapat mempengaruhi kesehatan mental dan fisik paparan suara keras dapat menyebabkan stres gangguan tidur dan masalah pendengaran jika musik menjadi cara untuk menghindari masalah atau emosi yang tidak nyaman ini bisa menjadi tanda bahwa seseorang perlu mencari cara yang lebih sehat untuk mengatasi perasaan tersebut",
+    "bot_response": "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
+    "timestamp": 1739250511.063936
+  },
+  {
+    "input": "dapatkah menonton film horor terlalu sering menyebabkan gangguan kecemasan",
+    "expected_response": "menonton film horor secara berlebihan dapat memicu atau memperburuk kecemasan terutama bagi individu yang sudah rentan terhadap gangguan kecemasan film horor sering kali memicu respons ketakutan dan stres yang dapat menyebabkan perasaan cemas yang berkepanjangan jika seseorang merasa cemas setelah menonton film horor mungkin ada baiknya untuk mengurangi frekuensi menonton atau memilih genre yang lebih menenangkan",
+    "bot_response": "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
+    "timestamp": 1739250603.281725
+  },
+  {
+    "input": "jika saya selalu merasa cemas saat melihat warna merah apakah itu jenis fobia",
+    "expected_response": "merasa cemas saat melihat warna merah bisa jadi merupakan bentuk fobia yang dikenal sebagai chromophobia atau ketakutan terhadap warna tertentu namun untuk dikategorikan sebagai fobia reaksi tersebut harus sangat kuat dan mengganggu kehidupan seharihari jika perasaan cemas ini mengganggu aktivitas normal sebaiknya berkonsultasi dengan profesional kesehatan mental",
+    "bot_response": "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
+    "timestamp": 1739250665.917824
+  },
+  {
+    "input": "apakah menyukai warna hitam membuat seseorang cenderung depresi",
+    "expected_response": "menyukai warna hitam tidak secara otomatis menunjukkan kecenderungan depresi warna favorit seseorang bisa dipengaruhi oleh banyak faktor termasuk budaya kepribadian dan pengalaman pribadi namun jika seseorang yang menyukai warna hitam juga menunjukkan tandatanda depresi penting untuk mengeksplorasi perasaan dan keadaan mental mereka lebih dalam",
+    "bot_response": "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
+    "timestamp": 1739250689.979742
+  },
+  {
+    "input": "apakah kebanyakan bermain vidio game membuat gangguan mental",
+    "expected_response": "bermain video game dalam jumlah yang berlebihan dapat berkontribusi pada masalah kesehatan mental tetapi tidak secara langsung menyebabkan gangguan mental jika bermain video game mengganggu kehidupan seharihari hubungan sosial atau kesehatan fisik ini bisa menjadi tanda masalah yang lebih besar penting untuk menjaga keseimbangan antara bermain game dan aktivitas lainnya",
+    "bot_response": "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
+    "timestamp": 1739250810.888477
+  },
+  {
+    "input": "jika saya berpikir saya bisa berbicara dengan hewan itu berarti saya punya gangguan mental",
+    "expected_response": "memiliki perasaan atau keyakinan bahwa seseorang dapat berbicara dengan hewan tidak selalu menunjukkan gangguan mental banyak orang merasa terhubung dengan hewan peliharaan mereka dan mungkin berbicara dengan mereka sebagai bentuk ekspresi kasih sayang namun jika keyakinan ini disertai dengan gejala lain yang mengganggu kehidupan seharihari sebaiknya berkonsultasi dengan profesional kesehatan mental",
+    "bot_response": "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
+    "timestamp": 1739250848.760251
+  },
+  {
+    "input": "Sedih berkepanjangan merupakan gejala penyakit mental apa?",
+    "expected_response": "Sedih berkepanjangan dapat menjadi gejala dari beberapa kondisi kesehatan mental, termasuk depresi mayor. Depresi ditandai dengan perasaan sedih yang mendalam, kehilangan minat dalam aktivitas yang biasanya menyenangkan, dan gejala fisik seperti kelelahan atau perubahan nafsu makan. Jika perasaan sedih ini berlangsung lebih dari dua minggu dan mengganggu fungsi sehari-hari, penting untuk mencari bantuan dari profesional kesehatan mental untuk evaluasi dan perawatan yang tepat.",
+    "bot_response": "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
+    "timestamp": 1734610955.484263
+  },
+  {
+    "input": "Apa itu gangguan kecemasan?",
+    "expected_response": "Gangguan kecemasan adalah kondisi kesehatan mental yang ditandai dengan perasaan cemas yang berlebihan dan berkepanjangan. Ini dapat mencakup gangguan kecemasan umum, gangguan panik, fobia, dan gangguan stres pasca-trauma (PTSD). Gejala dapat mencakup kekhawatiran yang berlebihan, ketegangan otot, kesulitan tidur, dan serangan panik.",
+    "bot_response": "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
+    "timestamp": 1734610955.484263
+  },
+  {
+    "input": "Apa yang dimaksud dengan gangguan bipolar?",
+    "expected_response": "Gangguan bipolar adalah kondisi kesehatan mental yang ditandai dengan perubahan suasana hati yang ekstrem, termasuk episode mania (perasaan sangat bahagia atau energik) dan depresi. Individu dengan gangguan bipolar mungkin mengalami perubahan suasana hati yang signifikan yang mempengaruhi kehidupan sehari-hari mereka.",
+    "bot_response": "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
+    "timestamp": 1734610955.484263
+  },
+  {
+    "input": "Apa itu skizofrenia?",
+    "expected_response": "Skizofrenia adalah gangguan mental serius yang mempengaruhi cara seseorang berpikir, merasa, dan berperilaku. Gejala dapat mencakup halusinasi, delusi, dan pemikiran yang tidak teratur. Individu dengan skizofrenia mungkin kesulitan membedakan antara kenyataan dan imajinasi.",
+    "bot_response": "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
+    "timestamp": 1734610955.484263
+  },
+  {
+    "input": "Apa itu gangguan makan?",
+    "expected_response": "Gangguan makan adalah kondisi kesehatan mental yang ditandai dengan pola makan yang tidak sehat dan perilaku terkait makanan. Ini termasuk anoreksia nervosa, bulimia nervosa, dan gangguan makan berlebihan. Gangguan ini dapat memiliki dampak serius pada kesehatan fisik dan mental.",
+    "bot_response": "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
+    "timestamp": 1734610955.484263
+  },
+  {
+    "input": "bagaimana cara terhindar dari penyakit mental",
+    "expected_response": "untuk terhindar dari penyakit mental penting untuk menjaga kesehatan fisik dan mental secara seimbang lakukan olahraga secara teratur karena aktivitas fisik dapat meningkatkan suasana hati dan mengurangi gejala depresi serta kecemasan konsumsi makanan bergizi yang kaya akan vitamin dan mineral untuk mendukung kesehatan otak",
+    "bot_response": "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
+    "timestamp": 1739252837.605411
+  },
+  {
+    "input": "hal yang perlu saya lakukan jika saya ingin sembuh dari penyakit mental yang saya derita",
+    "expected_response": "jika anda ingin sembuh dari penyakit mental langkah pertama adalah berkonsultasi dengan profesional kesehatan mental seperti psikolog atau psikiater untuk mendapatkan diagnosis dan rencana perawatan yang tepat ikuti rencana perawatan tersebut termasuk terapi dan pengobatan jika diperlukan selain itu penting untuk menjaga gaya hidup sehat dengan berolahraga secara teratur makan makanan bergizi dan cukup tidur dukungan dari keluarga dan teman juga sangat berharga jadi jangan ragu untuk berbagi perasaan anda jika perlu bergabunglah dengan kelompok dukungan untuk berbagi pengalaman dengan orang lain yang mengalami hal serupa",
+    "bot_response": "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
+    "timestamp": 1739252982.776765
+  },
+  {
+    "input": "situasi fans mu saat ini",
+    "expected_response": "hampir gila karena kalah terus",
+    "bot_response": "Maaf, saya tidak mengerti pertanyaan Anda. Bisa diulangi? Atau Anda bisa memberi tahu saya jawaban yang seharusnya.",
+    "timestamp": 1739887433.300109
+  }
+]

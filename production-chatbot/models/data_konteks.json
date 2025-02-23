@@ -1,0 +1,26 @@
+{
+  "topik_saat_ini": "fact-1",
+  "input_terakhir": "apa itu kesehatan mental?",
+  "rantai_konteks": [
+    {
+      "input": "hai",
+      "tag": "salam"
+    },
+    {
+      "input": "hai",
+      "tag": "salam"
+    },
+    {
+      "input": "hai",
+      "tag": "salam"
+    },
+    {
+      "input": "apa itu gangguan mental?",
+      "tag": "umpan_balik"
+    },
+    {
+      "input": "apa itu kesehatan mental?",
+      "tag": "fact-1"
+    }
+  ]
+}
